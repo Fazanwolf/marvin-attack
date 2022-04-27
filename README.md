@@ -16,8 +16,6 @@ Incarnant un tek0 en journée d'intégration, subitement tout devient sombre, le
 
 Le joueur sera amené à se déplacer dans les locaux d'Epitech Réunion à la recherche d'indices pour s'enfuir!
 
-First game with Unreal Engine
-
 ## Source
 
 [Miro](https://miro.com/app/board/uXjVOF5ZdrU=/?share_link_id=17264287351)
