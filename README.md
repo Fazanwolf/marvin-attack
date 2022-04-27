@@ -10,9 +10,9 @@
 
 ## Description
 
-Le projet consiste à concevoir un jeu de type escape game horrifique s'inspirnt de FNAF: Case Animatronics.
+Le projet consiste à concevoir un jeu de type escape game horrifique s'inspirant de FNAF: Case Animatronics.
 
-Incarnant un tek0 en journée d'intégration, subitement tout deviennt sombree, le bâtiment se retrouve verrouillé et vide de vie.
+Incarnant un tek0 en journée d'intégration, subitement tout devient sombre, le bâtiment se retrouve verrouillé et vide de vie.
 
 Le joueur sera amené à se déplacer dans les locaux d'Epitech Réunion à la recherche d'indices pour s'enfuir!
 
@@ -33,7 +33,7 @@ Ceci est notre premier projet Unreal Engine, nous avons voulu reproduire une amb
 
 ## Description
 
-The project consists in designing a horrificc escape game inspired by FNAF: Case Animatronics.
+The project consists in designing a horrific escape game inspired by FNAF: Case Animatronics.
 
 Embodying a tek0 in integration day, suddenly everything becomes dark, the building is locked and empty of life.
 
