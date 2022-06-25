@@ -1,0 +1,1663 @@
+﻿Log file open, 06/25/22 19:48:12
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MarvinAttack
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.228228
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +4:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin MultiUserTakes
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin MultiUserClient
+LogPluginManager: Mounting plugin ConcertMain
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ConcertSyncCore
+LogPluginManager: Mounting plugin ConcertSyncClient
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz, GPU: Intel(R) Iris(R) Xe Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/fazanwolf/Games/marvin-attack/MarvinAttack/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/fazanwolf/Games/marvin-attack/MarvinAttack/Saved/Config/Windows/Engine.ini]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/fazanwolf/Games/marvin-attack/MarvinAttack/Saved/Config/Windows/Engine.ini]
+[2022.06.25-15.48.12:708][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/fazanwolf/Games/marvin-attack/MarvinAttack/Saved/Config/Windows/Engine.ini]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/fazanwolf/Games/marvin-attack/MarvinAttack/Saved/Config/Windows/Engine.ini]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.06.25-15.48.12:708][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/fazanwolf/Games/marvin-attack/MarvinAttack/Saved/Config/Windows/Engine.ini]
+[2022.06.25-15.48.12:708][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/fazanwolf/Games/marvin-attack/MarvinAttack/Saved/Config/Windows/Engine.ini]
+[2022.06.25-15.48.12:717][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/fazanwolf/Games/marvin-attack/MarvinAttack/Saved/Config/Windows/Scalability.ini]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/fazanwolf/Games/marvin-attack/MarvinAttack/Saved/Config/Windows/Scalability.ini]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/fazanwolf/Games/marvin-attack/MarvinAttack/Saved/Config/Windows/Scalability.ini]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/fazanwolf/Games/marvin-attack/MarvinAttack/Saved/Config/Windows/Scalability.ini]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/fazanwolf/Games/marvin-attack/MarvinAttack/Saved/Config/Windows/Scalability.ini]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/fazanwolf/Games/marvin-attack/MarvinAttack/Saved/Config/Windows/Scalability.ini]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.06.25-15.48.12:717][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/fazanwolf/Games/marvin-attack/MarvinAttack/Saved/Config/Windows/Scalability.ini]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/fazanwolf/Games/marvin-attack/MarvinAttack/Saved/Config/Windows/Scalability.ini]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.06.25-15.48.12:718][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.25-15.48.12:718][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.06.25-15.48.12:718][  0]LogHAL: Display: Platform has ~ 16 GB [16856297472 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.25-15.48.12:718][  0]LogInit: Going up to parent DeviceProfile []
+[2022.06.25-15.48.12:718][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/fazanwolf/Games/marvin-attack/MarvinAttack/Saved/Config/Windows/Scalability.ini]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/fazanwolf/Games/marvin-attack/MarvinAttack/Saved/Config/Windows/Scalability.ini]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/fazanwolf/Games/marvin-attack/MarvinAttack/Saved/Config/Windows/Scalability.ini]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/fazanwolf/Games/marvin-attack/MarvinAttack/Saved/Config/Windows/Scalability.ini]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/fazanwolf/Games/marvin-attack/MarvinAttack/Saved/Config/Windows/Scalability.ini]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/fazanwolf/Games/marvin-attack/MarvinAttack/Saved/Config/Windows/Scalability.ini]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.25-15.48.12:718][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/fazanwolf/Games/marvin-attack/MarvinAttack/Saved/Config/Windows/Scalability.ini]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/fazanwolf/Games/marvin-attack/MarvinAttack/Saved/Config/Windows/Scalability.ini]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.06.25-15.48.12:719][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.06.25-15.48.12:720][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.06.25-15.48.12:720][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.06.25-15.48.12:720][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.06.25-15.48.12:720][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/fazanwolf/Games/marvin-attack/MarvinAttack/Saved/Config/Windows/Engine.ini]
+[2022.06.25-15.48.12:720][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/fazanwolf/Games/marvin-attack/MarvinAttack/Saved/Config/Windows/Editor.ini]
+[2022.06.25-15.48.12:720][  0]LogInit: Computer: LAPTOP-7GNEHH20
+[2022.06.25-15.48.12:720][  0]LogInit: User: fazanwolf
+[2022.06.25-15.48.12:720][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.06.25-15.48.12:720][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.25-15.48.12:720][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2022.06.25-15.48.12:720][  0]LogMemory: Platform Memory Stats for Windows
+[2022.06.25-15.48.12:720][  0]LogMemory: Process Physical Memory: 142.62 MB used, 142.62 MB peak
+[2022.06.25-15.48.12:720][  0]LogMemory: Process Virtual Memory: 118.50 MB used, 118.50 MB peak
+[2022.06.25-15.48.12:720][  0]LogMemory: Physical Memory: 10144.27 MB used,  5931.14 MB free, 16075.42 MB total
+[2022.06.25-15.48.12:720][  0]LogMemory: Virtual Memory: 134213328.00 MB used,  4402.51 MB free, 134217728.00 MB total
+[2022.06.25-15.48.12:723][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.06.25-15.48.12:758][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.06.25-15.48.12:759][  0]LogInit: Using OS detected language (en-GB).
+[2022.06.25-15.48.12:759][  0]LogInit: Using OS detected locale (en-GB).
+[2022.06.25-15.48.12:762][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2022.06.25-15.48.12:949][  0]LogInit: Setting process to per monitor DPI aware
+[2022.06.25-15.48.12:962][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.25-15.48.12:987][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.06.25-15.48.12:987][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.06.25-15.48.13:113][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.06.25-15.48.13:125][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.25-15.48.13:125][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.06.25-15.48.13:125][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.06.25-15.48.13:126][  0]LogD3D11RHI: D3D11 adapters:
+[2022.06.25-15.48.13:223][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060 Laptop GPU' (Feature Level 11_0)
+[2022.06.25-15.48.13:223][  0]LogD3D11RHI:       6023/0/8037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.06.25-15.48.13:251][  0]LogD3D11RHI:    1. 'Intel(R) Iris(R) Xe Graphics' (Feature Level 11_0)
+[2022.06.25-15.48.13:251][  0]LogD3D11RHI:       128/0/8037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.06.25-15.48.13:254][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.06.25-15.48.13:254][  0]LogD3D11RHI:       0/0/8037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.06.25-15.48.13:254][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.06.25-15.48.13:254][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.06.25-15.48.13:254][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.06.25-15.48.13:254][  0]LogD3D11RHI:     DeviceId    : 2520
+[2022.06.25-15.48.13:254][  0]LogD3D11RHI:     SubSysId    : 16e21043
+[2022.06.25-15.48.13:254][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.06.25-15.48.13:254][  0]LogD3D11RHI:     DedicatedVideoMemory : 6315573248 bytes
+[2022.06.25-15.48.13:254][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.06.25-15.48.13:254][  0]LogD3D11RHI:     SharedSystemMemory : 8428148736 bytes
+[2022.06.25-15.48.13:254][  0]LogD3D11RHI:     AdapterLuid : 0 63589
+[2022.06.25-15.48.13:259][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.06.25-15.48.13:259][  0]LogD3D11RHI:     GPU DeviceId: 0x2520 (for the marketing name, search the web for "GPU Device Id")
+[2022.06.25-15.48.13:259][  0]LogWindows: EnumDisplayDevices:
+[2022.06.25-15.48.13:259][  0]LogWindows:    0. 'Intel(R) Iris(R) Xe Graphics' (P:1 D:1)
+[2022.06.25-15.48.13:259][  0]LogWindows:    1. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2022.06.25-15.48.13:259][  0]LogWindows:    2. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2022.06.25-15.48.13:259][  0]LogWindows:    3. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2022.06.25-15.48.13:260][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:1)
+[2022.06.25-15.48.13:260][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.06.25-15.48.13:260][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.06.25-15.48.13:260][  0]LogD3D11RHI:   Driver Version: 496.49 (internal:30.0.14.9649, unified:496.49)
+[2022.06.25-15.48.13:260][  0]LogD3D11RHI:      Driver Date: 10-20-2021
+[2022.06.25-15.48.13:260][  0]LogRHI: Texture pool is 4216 MB (70% of 6023 MB)
+[2022.06.25-15.48.13:260][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.06.25-15.48.13:260][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.06.25-15.48.13:260][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.06.25-15.48.13:260][  0]LogD3D11RHI:     DeviceId    : 2520
+[2022.06.25-15.48.13:260][  0]LogD3D11RHI:     SubSysId    : 16e21043
+[2022.06.25-15.48.13:260][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.06.25-15.48.13:260][  0]LogD3D11RHI:     DedicatedVideoMemory : 6315573248 bytes
+[2022.06.25-15.48.13:260][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.06.25-15.48.13:260][  0]LogD3D11RHI:     SharedSystemMemory : 8428148736 bytes
+[2022.06.25-15.48.13:260][  0]LogD3D11RHI:     AdapterLuid : 0 63589
+[2022.06.25-15.48.13:313][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.06.25-15.48.13:313][  0]LogD3D11RHI: Async texture creation enabled
+[2022.06.25-15.48.13:313][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.06.25-15.48.13:333][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.06.25-15.48.13:357][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.06.25-15.48.13:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.06.25-15.48.13:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.06.25-15.48.13:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.06.25-15.48.13:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.06.25-15.48.13:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.06.25-15.48.13:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.06.25-15.48.13:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.06.25-15.48.13:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.06.25-15.48.13:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.06.25-15.48.13:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.06.25-15.48.13:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.06.25-15.48.13:677][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.06.25-15.48.13:677][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.06.25-15.48.13:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.06.25-15.48.13:690][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.06.25-15.48.13:693][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.06.25-15.48.13:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.06.25-15.48.13:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.06.25-15.48.13:709][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.06.25-15.48.13:713][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.06.25-15.48.13:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.06.25-15.48.13:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.06.25-15.48.13:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.06.25-15.48.13:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.06.25-15.48.13:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.06.25-15.48.13:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.06.25-15.48.13:767][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.06.25-15.48.13:767][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.06.25-15.48.13:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.06.25-15.48.13:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.06.25-15.48.13:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.06.25-15.48.13:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.06.25-15.48.13:788][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.06.25-15.48.13:794][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.06.25-15.48.13:823][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.06.25-15.48.13:850][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.06.25-15.48.13:851][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/fazanwolf/Games/marvin-attack/MarvinAttack/Intermediate/Shaders/WorkingDirectory/20248/).
+[2022.06.25-15.48.13:851][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/fazanwolf/AppData/Local/Temp/UnrealShaderWorkingDir/E73FBEA9440116D018D81E894341027C/'.
+[2022.06.25-15.48.13:851][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.06.25-15.48.13:851][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.06.25-15.48.13:851][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.06.25-15.48.14:474][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.06.25-15.48.14:533][  0]LogDerivedDataCache: Loaded boot cache 0.06s 94MB C:/Users/fazanwolf/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.06.25-15.48.14:533][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/fazanwolf/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.06.25-15.48.14:533][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/fazanwolf/Games/marvin-attack/MarvinAttack/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.25-15.48.14:533][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.06.25-15.48.14:533][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/fazanwolf/Games/marvin-attack/MarvinAttack/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.25-15.48.14:533][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.06.25-15.48.14:550][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.06.25-15.48.14:550][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.25-15.48.14:550][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.06.25-15.48.14:559][  0]LogDerivedDataCache: Speed tests for C:/Users/fazanwolf/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.06.25-15.48.14:559][  0]LogDerivedDataCache: Display: Performance to C:/Users/fazanwolf/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1397.19MBs, RandomWriteSpeed=116.84MBs. Assigned SpeedClass 'Local'
+[2022.06.25-15.48.14:560][  0]LogDerivedDataCache: Using Local data cache path C:/Users/fazanwolf/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.25-15.48.14:560][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.06.25-15.48.14:560][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.06.25-15.48.14:599][  0]LogSlate: Using FreeType 2.10.0
+[2022.06.25-15.48.14:600][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.25-15.48.14:621][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2022.06.25-15.48.14:817][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.25-15.48.14:817][  0]LogInit: Active device profile: [00000295103CC900][00000295049CC7C0 49] Windows
+[2022.06.25-15.48.14:817][  0]LogInit: Profiles: [00000295103CC900][00000295049CC7C0 49] Windows, [000002951038B800][0000029510B88940 49] WindowsNoEditor, [00000295103CF500][0000029510B84A80 49] WindowsServer, [0000029510388E00][0000029510B8CBC0 49] WindowsClient, [00000295103CF800][0000029510B90D00 49] IOS, [000002951038A800][0000029510B98E80 49] iPadAir, [00000295103CE000][0000029510B9D000 49] iPadAir2, [0000029510308A00][0000029504C412C0 49] IPadPro, [0000029510308B00][0000029504C3D300 49] iPadAir3, [0000029510389900][0000029509ED5480 49] iPadAir4, [000002951030B400][000002951099F600 49] iPadMini2, [000002951038AA00][00000295109AF780 49] iPadMini3, [0000029510309700][00000295109B3900 49] iPadMini4, [00000295103CD100][0000029510AD1A80 49] iPadMini5, [0000029510310300][0000029510AE61C0 49] iPhone6, [0000029510310400][0000029510AD8200 49] iPodTouch6, [000002951030B600][0000029510AEE4C0 49] iPhone7, [0000029510309800][0000029510AEA500 49] iPodTouch7, [0000029510313F00][0000029510AF2680 49] iPhone5S, [000002951038A200][0000029510AF6800 49] iPhone6Plus, [0000029510308200][0000029504BC0980 49] iPhone6S, [000002951038A400][0000029504BD8B00 49] iPhone6SPlus, [000002951030BC00][0000029510B94C40 49] iPhone7Plus, [0000029510388300][0000029510B06D80 49] iPhoneSE, [000002951030B500][0000029510B0AEC0 49] iPhone8, [0000029510389E00][0000029510B13040 49] iPhone8Plus, [0000029510309100][0000029510B171C0 49] iPhoneX, [0000029510388400][0000029510B1B340 49] iPhoneXS, [0000029510309300][0000029510B234C0 49] iPhoneXSMax, [0000029510389400][0000029510B27640 49] iPhoneXR, [000002951030B800][0000029510B2B7C0 49] iPhone11, [000002951038AE00][0000029510B2F940 49] iPhone11Pro, [000002951030B700][0000029510B37AC0 49] iPhone11ProMax, [0000029510388F00][0000029510B3A0C0 49] iPhoneSE2, [000002951030AE00][0000029510B3E240 49] iPhone12Mini, [000002951038BC00][0000029510B423C0 49] iPhone12, [000002951030A400][0000029510B46540 49] iPhone12Pro, [0000029510388700][0000029510B4A6C0 49] iPhone12ProMax, [000002951030A300][0000029509EB8840 49] iPadPro105, [000002951038B100][0000029510F829C0 49] iPadPro129, [000002951030A200][0000029510B32B40 49] iPadPro97, [0000029510388B00][0000029510B1ECC0 49] iPadPro2_129, [000002951030B200][0000029510B0EE00 49] iPad5, [000002951038B400][0000029510F86F40 49] iPad6, [000002951030B300][000002951099B080 49] iPad7, [0000029510388200][00000295109971C0 49] iPad8, [0000029510309A00][0000029510B03340 49] iPadPro11, [0000029510389600][000002950498D4C0 49] iPadPro2_11, [0000029510309D00][0000029504991640 49] iPadPro3_129, [000002951038B900][00000295049957C0 49] iPadPro4_129, [000002951030B000][0000029504999940 49] AppleTV, [000002951038BF00][000002950499DAC0 49] AppleTV4K, [0000029510308100][00000295049A00C0 49] TVOS, [000002951038A500][00000295049A4240 49] Mac, [000002951030BB00][00000295049A83C0 49] MacClient, [0000029510389B00][00000295049AC540 49] MacNoEditor, [000002951030AC00][00000295049B06C0 49] MacServer, [0000029510388A00][00000295052A8840 49] Linux, [000002951030A000][00000295052AC9C0 49] LinuxAArch64, [000002951038A700][00000295052B0B40 49] LinuxNoEditor, [000002951030A500][00000295052B4CC0 49] LinuxAArch64NoEditor, [0000029510389500][00000295052B8E40 49] LinuxClient, [000002951030B900][0000029504CAEF80 49] LinuxAArch64Client, [0000029510389700][00000295052BD0C0 49] LinuxServer, [0000029510309900][00000295052C1200 49] LinuxAArch64Server, [000002951038B700][00000295052C5340 49] Android, [0000029510308600][00000295052CD4C0 49] Android_Low, [000002951038AD00][0000029510DFD640 49] Android_Mid, [00000295103CFA00][0000029510E017C0 49] Android_High, [0000029510311C00][0000029510E05940 49] Android_Default, [00000295103CE100][0000029510E09AC0 49] Android_Adreno4xx, [0000029510312700][0000029510E0C0C0 49] Android_Adreno5xx_Low, [00000295103CCA00][0000029510E10240 49] Android_Adreno5xx, [0000029510312D00][0000029510E143C0 49] Android_Adreno6xx, [00000295103CD200][0000029510E18540 49] Android_Adreno6xx_Vulkan, [0000029510312800][0000029510E1C6C0 49] Android_Mali_T6xx, [00000295103CE600][0000029510E20840 49] Android_Mali_T7xx, [0000029510312E00][0000029510E249C0 49] Android_Mali_T8xx, [00000295103CF200][0000029510E28B40 49] Android_Mali_G71, [0000029510313C00][0000029510E2CCC0 49] Android_Mali_G72, [00000295103CEA00][0000029510E30E40 49] Android_Mali_G72_Vulkan, [0000029510311B00][0000029510E34FC0 49] Android_Mali_G76, [00000295103CDA00][0000029510E39140 49] Android_Mali_G76_Vulkan, [0000029510312000][00000295052C9280 49] Android_Mali_G77, [00000295103CED00][0000029510E3D3C0 49] Android_Mali_G77_Vulkan, [0000029510313800][0000029510E41500 49] Android_Mali_G78, [00000295103CE800][0000029510E49680 49] Android_Mali_G78_Vulkan, [0000029510311200][0000029510E4D800 49] Android_Mali_G710, [00000295103CCE00][0000029510E51980 49] Android_Mali_G710_Vulkan, [0000029510313500][0000029510E55B00 49] Android_Vulkan_SM5, [00000295103CF400][0000029510E58100 49] Android_PowerVR_G6xxx, [0000029510312C00][0000029510E5C280 49] Android_PowerVR_GT7xxx, [00000295103CFC00][0000029510E60400 49] Android_PowerVR_GE8xxx, [0000029510310E00][0000029510E64580 49] Android_PowerVR_GM9xxx, [00000295103CD800][0000029510E68700 49] Android_PowerVR_GM9xxx_Vulkan, [0000029510312400][0000029510E6C880 49] Android_TegraK1, [00000295103CD000][0000029510E70A00 49] Android_Unknown_Vulkan, [000002951038BA00][0000029510E74B80 49] Lumin, [00000295103CDE00][0000029510E78D00 49] Lumin_Desktop, [0000029510389C00][0000029510E7CE80 49] HoloLens, 
+[2022.06.25-15.48.14:923][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.25-15.48.14:923][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.06.25-15.48.14:923][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.06.25-15.48.14:923][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.06.25-15.48.14:923][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.06.25-15.48.14:938][  0]LogNetVersion: MarvinAttack 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1092421887)
+[2022.06.25-15.48.15:276][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.06.25-15.48.15:332][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.06.25-15.48.15:338][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.06.25-15.48.15:338][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.06.25-15.48.15:338][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.25-15.48.15:490][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 5B37B8E24020FF677E6DCBACD9708E78 | Instance: 49A936F047034CD5B444468C3C9A6C41 (LAPTOP-7GNEHH20-20248).
+[2022.06.25-15.48.15:521][  0]LogPython: Using Python 3.7.7
+[2022.06.25-15.48.16:096][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.06.25-15.48.16:102][  0]LogUdpMessaging: Initializing bridge on interface 25.64.97.138:0 to multicast group 230.0.0.1:6666.
+[2022.06.25-15.48.16:238][  0]SourceControl: Source control is disabled
+[2022.06.25-15.48.16:239][  0]SourceControl: Source control is disabled
+[2022.06.25-15.48.16:242][  0]SourceControl: Source control is disabled
+[2022.06.25-15.48.16:246][  0]SourceControl: Source control is disabled
+[2022.06.25-15.48.16:251][  0]SourceControl: Source control is disabled
+[2022.06.25-15.48.16:269][  0]LogUProjectInfo: Found projects:
+[2022.06.25-15.48.16:276][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.25-15.48.16:277][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.25-15.48.16:277][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.25-15.48.16:387][  0]LogOpenImageDenoise: OIDN starting up
+[2022.06.25-15.48.16:478][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.25-15.48.16:497][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.25-15.48.16:497][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.25-15.48.16:631][  0]LogCollectionManager: Loaded 0 collections in 0.001119 seconds
+[2022.06.25-15.48.16:652][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fazanwolf/Games/marvin-attack/MarvinAttack/Saved/Collections/' took 0.00s
+[2022.06.25-15.48.16:652][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fazanwolf/Games/marvin-attack/MarvinAttack/Content/Developers/fazanwolf/Collections/' took 0.00s
+[2022.06.25-15.48.16:652][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fazanwolf/Games/marvin-attack/MarvinAttack/Content/Collections/' took 0.00s
+[2022.06.25-15.48.16:652][  0]LogOcInput: OculusInput pre-init called
+[2022.06.25-15.48.16:863][  0]LogClass: Display: EnumProperty FMultiUserClientConfig::ValidationMode is not initialized properly. Module:MultiUserClientLibrary File:Public/MultiUserClientStatics.h
+[2022.06.25-15.48.16:863][  0]LogClass: Display: StructProperty FMultiUserClientInfo::AvatarColor is not initialized properly. Module:MultiUserClientLibrary File:Public/MultiUserClientStatics.h
+[2022.06.25-15.48.16:863][  0]LogClass: Display: 2 Uninitialized script struct members found including 0 object properties
+[2022.06.25-15.48.16:864][  0]LogEngine: Initializing Engine...
+[2022.06.25-15.48.16:866][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.06.25-15.48.16:866][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.25-15.48.16:866][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.06.25-15.48.16:867][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.06.25-15.48.16:984][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.25-15.48.16:992][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.25-15.48.17:000][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.06.25-15.48.17:003][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.06.25-15.48.17:004][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.06.25-15.48.17:004][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.06.25-15.48.17:004][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.06.25-15.48.17:004][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.25-15.48.17:004][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.25-15.48.17:004][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.25-15.48.17:004][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.25-15.48.17:004][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.25-15.48.17:004][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.25-15.48.17:004][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.25-15.48.17:004][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.25-15.48.17:005][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.25-15.48.17:005][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.25-15.48.17:005][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.25-15.48.17:005][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.25-15.48.17:014][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.25-15.48.17:014][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.06.25-15.48.17:138][  0]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.06.25-15.48.17:141][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.25-15.48.17:143][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.25-15.48.17:143][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.25-15.48.17:143][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.25-15.48.17:143][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.25-15.48.17:143][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.25-15.48.17:144][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.25-15.48.17:144][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.25-15.48.17:144][  0]LogInit: FAudioDevice initialized.
+[2022.06.25-15.48.17:144][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.06.25-15.48.17:145][  0]LogNetVersion: Set ProjectVersion to 0.25. Version Checksum will be recalculated on next use.
+[2022.06.25-15.48.17:199][  0]LogDerivedDataCache: Saved boot cache 0.05s 94MB C:/Users/fazanwolf/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.06.25-15.48.17:199][  0]LogInit: Texture streaming: Enabled
+[2022.06.25-15.48.17:211][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.06.25-15.48.17:214][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.06.25-15.48.17:214][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.06.25-15.48.17:218][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.06.25-15.48.17:259][  0]LogInit: Transaction tracking system initialized
+[2022.06.25-15.48.17:277][  0]BlueprintLog: New page: Editor Load
+[2022.06.25-15.48.17:326][  0]LocalizationService: Localization service is disabled
+[2022.06.25-15.48.17:347][  0]TimingProfiler: Initialize
+[2022.06.25-15.48.17:347][  0]TimingProfiler: OnSessionChanged
+[2022.06.25-15.48.17:347][  0]LoadingProfiler: Initialize
+[2022.06.25-15.48.17:347][  0]LoadingProfiler: OnSessionChanged
+[2022.06.25-15.48.17:347][  0]NetworkingProfiler: Initialize
+[2022.06.25-15.48.17:347][  0]NetworkingProfiler: OnSessionChanged
+[2022.06.25-15.48.17:347][  0]MemoryProfiler: Initialize
+[2022.06.25-15.48.17:347][  0]MemoryProfiler: OnSessionChanged
+[2022.06.25-15.48.17:411][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.25-15.48.17:411][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.25-15.48.17:411][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.25-15.48.17:523][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.06.25-15.48.17:523][  0]LogCook: Display: Mobile HDR setting 1
+[2022.06.25-15.48.17:586][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fazanwolf/Games/marvin-attack/MarvinAttack/Content/' took 0.00s
+[2022.06.25-15.48.17:861][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.06.25-15.48.17:864][  0]SourceControl: Source control is disabled
+[2022.06.25-15.48.17:864][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.234
+[2022.06.25-15.48.17:865][  0]Cmd: MAP LOAD FILE="../../../../../../Users/fazanwolf/Games/marvin-attack/MarvinAttack/Content/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.25-15.48.17:865][  0]LightingResults: New page: Lighting Build
+[2022.06.25-15.48.17:866][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.06.25-15.48.17:866][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-15.48.17:866][  0]MapCheck: New page: Map Check
+[2022.06.25-15.48.17:866][  0]LightingResults: New page: Lighting Build
+[2022.06.25-15.48.17:870][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.25-15.48.17:873][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.06.25-15.48.17:886][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Menu'.
+[2022.06.25-15.48.17:887][  0]LogAIModule: Creating AISystem for world Menu
+[2022.06.25-15.48.17:887][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.25-15.48.17:894][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.06.25-15.48.17:894][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.25-15.48.17:894][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.207ms to complete.
+[2022.06.25-15.48.17:894][  0]LogFileHelpers: Loading map 'Menu' took 0.029
+[2022.06.25-15.48.17:896][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.265
+[2022.06.25-15.48.17:996][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-15.48.18:001][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-15.48.18:006][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-15.48.18:011][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-15.48.18:024][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0085 seconds. Added 3834 classes and 949 folders.
+[2022.06.25-15.48.18:027][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.06.25-15.48.18:028][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.25-15.48.18:028][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.25-15.48.18:028][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.25-15.48.18:028][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.25-15.48.18:028][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.06.25-15.48.18:028][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.06.25-15.48.18:031][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.06.25-15.48.18:031][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.25-15.48.18:031][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.06.25-15.48.18:031][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.25-15.48.18:031][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.06.25-15.48.18:031][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.06.25-15.48.18:034][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.06.25-15.48.18:034][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.25-15.48.18:034][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.06.25-15.48.18:034][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.25-15.48.18:034][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.06.25-15.48.18:034][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.06.25-15.48.18:034][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.25-15.48.18:034][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.25-15.48.18:034][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.25-15.48.18:034][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.25-15.48.18:034][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.06.25-15.48.18:034][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.06.25-15.48.18:035][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.06.25-15.48.18:035][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.25-15.48.18:035][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.06.25-15.48.18:035][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.25-15.48.18:035][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.06.25-15.48.18:035][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.06.25-15.48.18:037][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.06.25-15.48.18:037][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.25-15.48.18:037][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.06.25-15.48.18:037][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.25-15.48.18:037][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.06.25-15.48.18:037][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.06.25-15.48.18:037][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.06.25-15.48.18:037][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.25-15.48.18:037][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.06.25-15.48.18:037][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.25-15.48.18:037][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.06.25-15.48.18:037][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.06.25-15.48.18:038][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.06.25-15.48.18:038][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.25-15.48.18:038][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.06.25-15.48.18:038][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.25-15.48.18:038][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.06.25-15.48.18:038][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.06.25-15.48.18:038][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.25-15.48.18:038][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.25-15.48.18:038][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.25-15.48.18:038][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.25-15.48.18:038][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.06.25-15.48.18:038][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.06.25-15.48.18:040][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.06.25-15.48.18:040][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.25-15.48.18:040][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.06.25-15.48.18:040][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.25-15.48.18:040][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.06.25-15.48.18:040][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.06.25-15.48.18:040][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.06.25-15.48.18:040][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.25-15.48.18:040][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.06.25-15.48.18:040][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.25-15.48.18:040][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.06.25-15.48.18:040][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.06.25-15.48.18:041][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.25-15.48.18:041][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.25-15.48.18:041][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.25-15.48.18:041][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.25-15.48.18:041][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.06.25-15.48.18:041][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.06.25-15.48.18:041][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.25-15.48.18:041][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.25-15.48.18:041][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.25-15.48.18:041][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.25-15.48.18:041][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.06.25-15.48.18:041][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.06.25-15.48.18:041][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.25-15.48.18:041][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.25-15.48.18:041][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.25-15.48.18:041][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.25-15.48.18:041][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.06.25-15.48.18:041][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.06.25-15.48.18:042][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.06.25-15.48.18:042][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.25-15.48.18:042][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.06.25-15.48.18:042][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.25-15.48.18:042][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.06.25-15.48.18:042][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.06.25-15.48.18:042][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.25-15.48.18:042][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.25-15.48.18:042][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.25-15.48.18:042][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.25-15.48.18:042][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.06.25-15.48.18:042][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.06.25-15.48.18:043][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.06.25-15.48.18:043][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.25-15.48.18:043][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.06.25-15.48.18:043][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.25-15.48.18:043][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.06.25-15.48.18:043][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.06.25-15.48.18:043][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.25-15.48.18:043][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.25-15.48.18:043][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.25-15.48.18:043][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.25-15.48.18:043][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.06.25-15.48.18:043][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.06.25-15.48.18:043][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.25-15.48.18:043][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.25-15.48.18:043][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.25-15.48.18:043][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.25-15.48.18:043][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.06.25-15.48.18:043][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.06.25-15.48.18:044][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.25-15.48.18:044][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.25-15.48.18:044][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.25-15.48.18:044][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.25-15.48.18:044][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.06.25-15.48.18:044][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.06.25-15.48.18:044][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.25-15.48.18:044][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.25-15.48.18:044][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.25-15.48.18:044][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.25-15.48.18:044][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.06.25-15.48.18:044][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.06.25-15.48.18:045][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.25-15.48.18:045][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.25-15.48.18:045][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.25-15.48.18:045][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.25-15.48.18:045][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.06.25-15.48.18:045][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.06.25-15.48.18:045][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.06.25-15.48.18:045][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.25-15.48.18:045][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.06.25-15.48.18:045][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.25-15.48.18:045][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.06.25-15.48.18:045][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.06.25-15.48.18:045][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.25-15.48.18:045][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.25-15.48.18:045][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.25-15.48.18:045][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.25-15.48.18:045][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.06.25-15.48.18:045][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.06.25-15.48.18:046][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.25-15.48.18:046][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.25-15.48.18:046][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.25-15.48.18:046][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.25-15.48.18:046][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.06.25-15.48.18:046][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.06.25-15.48.18:046][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.06.25-15.48.18:046][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.25-15.48.18:046][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.06.25-15.48.18:046][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.25-15.48.18:046][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.06.25-15.48.18:046][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.06.25-15.48.18:082][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.06.25-15.48.18:083][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.06.25-15.48.18:135][  0]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.25-15.48.18:136][  0]LogSlate: Took 0.000474 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.25-15.48.18:138][  0]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.25-15.48.18:209][  0]LogRenderer: Reallocating scene render targets to support 964x460 Format 10 NumSamples 1 (Frame:1).
+[2022.06.25-15.48.18:294][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.06.25-15.48.18:295][  0]LogLoad: (Engine Initialization) Total time: 6.66 seconds
+[2022.06.25-15.48.18:295][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.06.25-15.48.18:342][  0]LogAssetRegistry: Asset discovery search completed in 3.7230 seconds
+[2022.06.25-15.48.18:348][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.06.25-15.48.18:350][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.06.25-15.48.18:451][  3]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.25-15.48.18:705][ 18]LogSlate: Last resort fallback font was requested. Font: '/Game/Assets/Font/EraserDust.EraserDust', Character: '_ (U+005f)'
+[2022.06.25-15.48.18:710][ 18]LogSlate: Took 0.003026 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2022.06.25-15.48.22:584][246]LogConcert: Display: Server DESKTOP-QULHA9G discovered.
+[2022.06.25-15.48.25:667][430]LogConcert: [Pending] Joining Session...
+[2022.06.25-15.48.25:667][430]LogConcert: [Pending] Joining Session... - Validating Workspace...
+[2022.06.25-15.48.25:672][430]LogSlate: Took 0.000377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.25-15.48.25:877][436]LogConcert: [Pending] Joining Session... - Attempting Remote Connection...
+[2022.06.25-15.48.25:941][438]LogConcertTakeRecorder: Display: Multi-user Take Recorder Session Startup: MRVN
+[2022.06.25-15.48.25:960][438]SourceControl: Source control is disabled
+[2022.06.25-15.48.26:024][438]LogConcert: Display: Initialized Concert session 'MRVN' (Id: 54ADE3634EC96AE632E51F8CC2A9AF3E, Owner: knightfaith).
+[2022.06.25-15.48.26:024][438]LogConcert: Display: Connecting to Concert session 'MRVN' (Id: 54ADE3634EC96AE632E51F8CC2A9AF3E, Owner: knightfaith).
+[2022.06.25-15.48.26:118][441]LogConcertTakeRecorder: Display: Multi-user Take Recorder Connected to Session: MRVN
+[2022.06.25-15.48.26:159][441]LogConcert: Display: Connected to Concert session 'MRVN' (Id: 54ADE3634EC96AE632E51F8CC2A9AF3E, Owner: knightfaith).
+[2022.06.25-15.48.26:159][441]LogConcertTakeRecorder: Display: Session Client Change: FW Connected.
+[2022.06.25-15.48.26:159][441]LogConcert: Display: User 'fazanwolf' (Endpoint: DC4AB26C42666C36CF58CAB1EB42E249) joined Concert session 'MRVN' (Id: 54ADE3634EC96AE632E51F8CC2A9AF3E, Owner: knightfaith).
+[2022.06.25-15.48.26:160][441]LogConcertTakeRecorder: Display: Session Client Change: KnightFaith Connected.
+[2022.06.25-15.48.26:160][441]LogConcert: Display: User 'knightfaith' (Endpoint: 78254A3C41D6DC87F254B99631B76AAA) joined Concert session 'MRVN' (Id: 54ADE3634EC96AE632E51F8CC2A9AF3E, Owner: knightfaith).
+[2022.06.25-15.48.26:162][442]LogConcert: [Success] Joined Session 'MRVN'
+[2022.06.25-15.48.26:214][445]LogConcert: Display: Synced activity '1' produced by endpoint 'F7E78B56424D9B10A8FE93ADAD26CF6A': Knight joined the session.
+[2022.06.25-15.48.26:215][445]LogConcert: Display: Synced activity '2' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW joined the session.
+[2022.06.25-15.48.26:215][445]LogConcert: Display: Synced activity '3' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight joined the session.
+[2022.06.25-15.48.26:235][446]LogConcert: Display: Synced activity '4' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW discarded changes to package /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.
+[2022.06.25-15.48.26:238][446]LogConcert: Display: Synced activity '5' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW created Actor_1 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:239][446]LogConcert: Display: Synced activity '6' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW locked Actor_1.DefaultSceneRoot in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:242][446]LogConcert: Display: Synced activity '7' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW modified Actor_1.DefaultSceneRoot in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:242][446]LogConcert: Display: Synced activity '8' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW unlocked Actor_1.DefaultSceneRoot in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:243][446]LogConcert: Display: Synced activity '9' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW locked Actor_1.DefaultSceneRoot in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:245][446]LogConcert: Display: Synced activity '10' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW modified Actor_1.DefaultSceneRoot in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:245][446]LogConcert: Display: Synced activity '11' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW unlocked Actor_1.DefaultSceneRoot in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:248][446]LogConcert: Display: Synced activity '12' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW deleted Actor_1 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:251][446]LogConcert: Display: Synced activity '13' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight added package /Game/FirstPersonBP/Maps/Campus_test.
+[2022.06.25-15.48.26:253][446]LogConcert: Display: Synced activity '14' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight discarded changes to package /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.
+[2022.06.25-15.48.26:253][446]LogConcert: Display: Synced activity '15' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW locked BigWall2_22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:255][446]LogConcert: Display: Synced activity '16' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW modified BigWall2_22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:256][446]LogConcert: Display: Synced activity '17' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW unlocked BigWall2_22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:256][446]LogConcert: Display: Synced activity '18' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW locked BigWall2_22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:258][446]LogConcert: Display: Synced activity '19' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW modified BigWall2_22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:258][446]LogConcert: Display: Synced activity '20' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW unlocked BigWall2_22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:260][446]LogConcert: Display: Synced activity '21' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW discarded changes to package /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.
+[2022.06.25-15.48.26:262][446]LogConcert: Display: Synced activity '22' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight discarded changes to package /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.
+[2022.06.25-15.48.26:263][446]LogConcert: Display: Synced activity '23' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW locked EditorCube15_9.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:264][446]LogConcert: Display: Synced activity '24' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW modified EditorCube15_9.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:265][446]LogConcert: Display: Synced activity '25' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW unlocked EditorCube15_9.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:268][446]LogConcert: Display: Synced activity '26' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW modified EditorCube15_9.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:270][446]LogConcert: Display: Synced activity '27' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW deleted EditorCube15_9 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:271][446]LogConcert: Display: Synced activity '28' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW locked EditorCube20_14.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:273][446]LogConcert: Display: Synced activity '29' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW modified EditorCube20_14.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:273][446]LogConcert: Display: Synced activity '30' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW unlocked EditorCube20_14.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:273][446]LogConcert: Display: Synced activity '31' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW locked EditorCube20_14.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:276][446]LogConcert: Display: Synced activity '32' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW modified EditorCube20_14.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:277][446]LogConcert: Display: Synced activity '33' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW unlocked EditorCube20_14.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:277][446]LogConcert: Display: Synced activity '34' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW locked EditorCube20_14.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:279][446]LogConcert: Display: Synced activity '35' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW modified EditorCube20_14.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:280][446]LogConcert: Display: Synced activity '36' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW unlocked EditorCube20_14.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:280][446]LogConcert: Display: Synced activity '37' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW locked EditorCube20_14.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:283][446]LogConcert: Display: Synced activity '38' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW modified EditorCube20_14.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:283][446]LogConcert: Display: Synced activity '39' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW unlocked EditorCube20_14.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:283][446]LogConcert: Display: Synced activity '40' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW locked EditorCube20_14.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:285][446]LogConcert: Display: Synced activity '41' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW modified EditorCube20_14.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:286][446]LogConcert: Display: Synced activity '42' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW unlocked EditorCube20_14.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:286][446]LogConcert: Display: Synced activity '43' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW locked EditorCube11_5.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:289][446]LogConcert: Display: Synced activity '44' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW modified EditorCube11_5.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:289][446]LogConcert: Display: Synced activity '45' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW unlocked EditorCube11_5.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:289][446]LogConcert: Display: Synced activity '46' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW locked EditorCube10_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:291][446]LogConcert: Display: Synced activity '47' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW modified EditorCube10_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:291][446]LogConcert: Display: Synced activity '48' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW unlocked EditorCube10_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:299][447]LogConcert: Display: Synced activity '49' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW discarded changes to package /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.
+[2022.06.25-15.48.26:302][447]LogConcert: Display: Synced activity '50' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW deleted Wall3_19 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:304][447]LogConcert: Display: Synced activity '51' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW discarded changes to package /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.
+[2022.06.25-15.48.26:306][447]LogConcert: Display: Synced activity '52' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW discarded changes to package /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.
+[2022.06.25-15.48.26:309][447]LogConcert: Display: Synced activity '53' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW created Wall3_19 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:311][447]LogConcert: Display: Synced activity '54' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW discarded changes to package /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.
+[2022.06.25-15.48.26:312][447]LogConcert: Display: Synced activity '55' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW locked Wall3_19.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:314][447]LogConcert: Display: Synced activity '56' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW modified Wall3_19.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:315][447]LogConcert: Display: Synced activity '57' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW unlocked Wall3_19.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:317][447]LogConcert: Display: Synced activity '58' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW modified Wall3_19.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:320][447]LogConcert: Display: Synced activity '59' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight created SkyLight_1 in /Game/FirstPersonBP/Maps/Campus_test.
+[2022.06.25-15.48.26:320][447]LogConcert: Display: Synced activity '60' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight locked /Game/FirstPersonBP/Maps/Campus_test_BuiltData.
+[2022.06.25-15.48.26:322][447]LogConcert: Display: Synced activity '61' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight created DirectionalLight_1 in /Game/FirstPersonBP/Maps/Campus_test.
+[2022.06.25-15.48.26:324][447]LogConcert: Display: Synced activity '62' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW saved package /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:327][447]LogConcert: Display: Synced activity '63' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW created SkyLight2_3 in /Game/FirstPersonBP/Maps/Campus_test.
+[2022.06.25-15.48.26:329][447]LogConcert: Display: Synced activity '64' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW deleted SkyLight2_3 in /Game/FirstPersonBP/Maps/Campus_test.
+[2022.06.25-15.48.26:329][447]LogConcert: Display: Synced activity '65' produced by endpoint 'C9909E0B4A6D256273F43F8E80D4BBD9': FW left the session.
+[2022.06.25-15.48.26:330][447]LogConcert: Display: Synced activity '66' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight locked SkyLight_1.SkyLightComponent0 in /Game/FirstPersonBP/Maps/Campus_test.
+[2022.06.25-15.48.26:332][447]LogConcert: Display: Synced activity '67' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight modified SkyLight_1.SkyLightComponent0 in /Game/FirstPersonBP/Maps/Campus_test.
+[2022.06.25-15.48.26:332][447]LogConcert: Display: Synced activity '68' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight unlocked SkyLight_1.SkyLightComponent0 in /Game/FirstPersonBP/Maps/Campus_test.
+[2022.06.25-15.48.26:333][447]LogConcert: Display: Synced activity '69' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight locked DirectionalLight_1.LightComponent0 in /Game/FirstPersonBP/Maps/Campus_test.
+[2022.06.25-15.48.26:335][447]LogConcert: Display: Synced activity '70' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight modified DirectionalLight_1.LightComponent0 in /Game/FirstPersonBP/Maps/Campus_test.
+[2022.06.25-15.48.26:335][447]LogConcert: Display: Synced activity '71' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight unlocked DirectionalLight_1.LightComponent0 in /Game/FirstPersonBP/Maps/Campus_test.
+[2022.06.25-15.48.26:337][447]LogConcert: Display: Synced activity '72' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight deleted package /Game/FirstPersonBP/Maps/Campus_test.
+[2022.06.25-15.48.26:341][447]LogConcert: Display: Synced activity '73' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight added package /Game/FirstPersonBP/Maps/Campus_test.
+[2022.06.25-15.48.26:344][447]LogConcert: Display: Synced activity '74' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight saved package /Game/FirstPersonBP/Maps/Campus_test.
+[2022.06.25-15.48.26:348][447]LogConcert: Display: Synced activity '75' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight deleted package /Game/FirstPersonBP/Maps/Campus_test.
+[2022.06.25-15.48.26:351][447]LogConcert: Display: Synced activity '76' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight added package /Game/FirstPersonBP/Maps/FirstPersonExampleMap_2.
+[2022.06.25-15.48.26:352][447]LogConcert: Display: Synced activity '77' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight locked /Game/FirstPersonBP/Maps/Campus_test.
+[2022.06.25-15.48.26:352][447]LogConcert: Display: Synced activity '78' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight locked /Game/FirstPersonBP/Maps/FirstPersonExampleMap_2.
+[2022.06.25-15.48.26:355][447]LogConcert: Display: Synced activity '79' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight saved package /Game/FirstPersonBP/Maps/Campus_test.
+[2022.06.25-15.48.26:355][447]LogConcert: Display: Synced activity '80' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight unlocked /Game/FirstPersonBP/Maps/Campus_test.
+[2022.06.25-15.48.26:357][447]LogConcert: Display: Synced activity '81' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight modified FirstPersonCharacter_C_1 in /Game/FirstPersonBP/Maps/Campus_test.
+[2022.06.25-15.48.26:360][447]LogConcert: Display: Synced activity '82' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight modified FirstPersonCharacter_C_1 in /Game/FirstPersonBP/Maps/Campus_test.
+[2022.06.25-15.48.26:364][447]LogConcert: Display: Synced activity '83' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight deleted TemplateLabel in /Game/FirstPersonBP/Maps/Campus_test.
+[2022.06.25-15.48.26:366][447]LogConcert: Display: Synced activity '84' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight modified EditorCube10_4 in /Game/FirstPersonBP/Maps/Campus_test.
+[2022.06.25-15.48.26:369][447]LogConcert: Display: Synced activity '85' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight modified BigWall2_22 in /Game/FirstPersonBP/Maps/Campus_test.
+[2022.06.25-15.48.26:371][447]LogConcert: Display: Synced activity '86' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight modified BigWall2_22 in /Game/FirstPersonBP/Maps/Campus_test.
+[2022.06.25-15.48.26:375][447]LogConcert: Display: Synced activity '87' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight modified BigWall2_22 in /Game/FirstPersonBP/Maps/Campus_test.
+[2022.06.25-15.48.26:378][447]LogConcert: Display: Synced activity '88' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight modified BigWall2_22 in /Game/FirstPersonBP/Maps/Campus_test.
+[2022.06.25-15.48.26:381][447]LogConcert: Display: Synced activity '89' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight modified BigWall2_22 in /Game/FirstPersonBP/Maps/Campus_test.
+[2022.06.25-15.48.26:383][447]LogConcert: Display: Synced activity '90' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight modified BigWall2_22 in /Game/FirstPersonBP/Maps/Campus_test.
+[2022.06.25-15.48.26:385][447]LogConcert: Display: Synced activity '91' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight modified BigWall2_22 in /Game/FirstPersonBP/Maps/Campus_test.
+[2022.06.25-15.48.26:386][447]LogConcert: Display: Synced activity '92' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight unlocked /Game/FirstPersonBP/Maps/FirstPersonExampleMap_2, plus 1 other resource.
+[2022.06.25-15.48.26:386][447]LogConcert: Display: Synced activity '93' produced by endpoint '1939DEE942223CABDE9E6FB6F49DCEB0': Knight left the session.
+[2022.06.25-15.48.26:386][447]LogConcert: Display: Synced activity '94' produced by endpoint 'F629EA9B482845EAD5D85493D1292E83': KnightFaith joined the session.
+[2022.06.25-15.48.26:386][447]LogConcert: Display: Synced activity '95' produced by endpoint 'F629EA9B482845EAD5D85493D1292E83': KnightFaith left the session.
+[2022.06.25-15.48.26:386][447]LogConcert: Display: Synced activity '96' produced by endpoint 'F45D31904D29B6BF9809BAAB2B23FB30': KnightFaith joined the session.
+[2022.06.25-15.48.26:386][447]LogConcert: Display: Synced activity '97' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW joined the session.
+[2022.06.25-15.48.26:389][447]LogConcert: Display: Synced activity '98' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW added package /Game/UI/UI_Setting.
+[2022.06.25-15.48.26:389][447]LogConcert: Display: Synced activity '99' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW locked /Game/UI/UI_Setting.
+[2022.06.25-15.48.26:391][447]LogConcert: Display: Synced activity '100' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW deleted package /Game/UI/UI_Setting.
+[2022.06.25-15.48.26:391][447]LogConcert: Display: Synced activity '101' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW unlocked /Game/UI/UI_Setting.
+[2022.06.25-15.48.26:391][447]LogConcert: Display: Synced activity '102' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW locked /Game/UI/UI_Menu_2.
+[2022.06.25-15.48.26:393][447]LogConcert: Display: Synced activity '103' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW added package /Game/UI/UI_Menu_2.
+[2022.06.25-15.48.26:393][447]LogConcert: Display: Synced activity '104' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW unlocked /Game/UI/UI_Menu_2.
+[2022.06.25-15.48.26:394][447]LogConcert: Display: Synced activity '105' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW locked /Game/UI/UI_Menu_2.
+[2022.06.25-15.48.26:394][447]LogConcert: Display: Synced activity '106' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW locked /Game/UI/UI_Setting.
+[2022.06.25-15.48.26:396][447]LogConcert: Display: Synced activity '107' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW saved package /Game/UI/UI_Setting.
+[2022.06.25-15.48.26:396][447]LogConcert: Display: Synced activity '108' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW unlocked /Game/UI/UI_Setting.
+[2022.06.25-15.48.26:396][447]LogConcert: Display: Synced activity '109' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW renamed package /Game/UI/UI_Menu_2 to /Game/UI/UI_Setting.
+[2022.06.25-15.48.26:396][447]LogConcert: Display: Synced activity '110' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW unlocked /Game/UI/UI_Menu_2.
+[2022.06.25-15.48.26:396][447]LogConcert: Display: Synced activity '111' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW locked /Game/UI/UI_Setting.
+[2022.06.25-15.48.26:399][447]LogConcert: Display: Synced activity '112' produced by endpoint 'F45D31904D29B6BF9809BAAB2B23FB30': KnightFaith discarded changes to package /Game/Maps/UEDPIE_0_Menu.
+[2022.06.25-15.48.26:404][448]LogConcert: Display: Synced activity '113' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW saved package /Game/UI/UI_Setting.
+[2022.06.25-15.48.26:404][448]LogConcert: Display: Synced activity '114' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW unlocked /Game/UI/UI_Setting.
+[2022.06.25-15.48.26:405][448]LogConcert: Display: Synced activity '115' produced by endpoint 'F45D31904D29B6BF9809BAAB2B23FB30': KnightFaith locked /Game/items/s_items.
+[2022.06.25-15.48.26:408][448]LogConcert: Display: Synced activity '116' produced by endpoint 'F45D31904D29B6BF9809BAAB2B23FB30': KnightFaith added package /Game/items/s_items.
+[2022.06.25-15.48.26:409][448]LogConcert: Display: Synced activity '117' produced by endpoint 'F45D31904D29B6BF9809BAAB2B23FB30': KnightFaith unlocked /Game/items/s_items.
+[2022.06.25-15.48.26:409][448]LogConcert: Display: Synced activity '118' produced by endpoint 'F45D31904D29B6BF9809BAAB2B23FB30': KnightFaith locked /Game/items/s_items.
+[2022.06.25-15.48.26:411][448]LogConcert: Display: Synced activity '119' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW saved package /Game/Maps/Campus_rdc.
+[2022.06.25-15.48.26:414][448]LogConcert: Display: Synced activity '120' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW discarded changes to package /Game/Maps/UEDPIE_0_Campus_rdc.
+[2022.06.25-15.48.26:416][448]LogConcert: Display: Synced activity '121' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW discarded changes to package /Game/Maps/UEDPIE_0_Campus_rdc.
+[2022.06.25-15.48.26:418][448]LogConcert: Display: Synced activity '122' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW discarded changes to package /Game/Maps/UEDPIE_0_Campus_rdc.
+[2022.06.25-15.48.26:420][448]LogConcert: Display: Synced activity '123' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW discarded changes to package /Game/Maps/UEDPIE_0_Campus_rdc.
+[2022.06.25-15.48.26:420][448]LogConcert: Display: Synced activity '124' produced by endpoint 'F45D31904D29B6BF9809BAAB2B23FB30': KnightFaith unlocked /Game/items/s_items.
+[2022.06.25-15.48.26:421][448]LogConcert: Display: Synced activity '125' produced by endpoint 'F45D31904D29B6BF9809BAAB2B23FB30': KnightFaith left the session.
+[2022.06.25-15.48.26:422][448]LogConcert: Display: Synced activity '126' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW saved package /Game/Maps/Campus_rdc.
+[2022.06.25-15.48.26:424][448]LogConcert: Display: Synced activity '127' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW discarded changes to package /Game/Maps/UEDPIE_0_Campus_rdc.
+[2022.06.25-15.48.26:426][448]LogConcert: Display: Synced activity '128' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW discarded changes to package /Game/Maps/UEDPIE_0_Campus_rdc.
+[2022.06.25-15.48.26:428][448]LogConcert: Display: Synced activity '129' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW discarded changes to package /Game/Maps/UEDPIE_0_Campus_rdc.
+[2022.06.25-15.48.26:430][448]LogConcert: Display: Synced activity '130' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW modified None in None, plus -1 other action.
+[2022.06.25-15.48.26:432][448]LogConcert: Display: Synced activity '131' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW modified None in None, plus -1 other action.
+[2022.06.25-15.48.26:432][448]LogConcert: Display: Synced activity '132' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith joined the session.
+[2022.06.25-15.48.26:433][448]LogConcert: Display: Synced activity '133' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith locked /Game/items/s_items.
+[2022.06.25-15.48.26:435][448]LogConcert: Display: Synced activity '134' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW modified None in None, plus -1 other action.
+[2022.06.25-15.48.26:438][448]LogConcert: Display: Synced activity '135' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW modified None in None, plus -1 other action.
+[2022.06.25-15.48.26:440][448]LogConcert: Display: Synced activity '136' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW modified None in None, plus -1 other action.
+[2022.06.25-15.48.26:443][448]LogConcert: Display: Synced activity '137' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW added package /Game/UI/UI_Pause.
+[2022.06.25-15.48.26:444][448]LogConcert: Display: Synced activity '138' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW locked /Game/UI/UI_Pause.
+[2022.06.25-15.48.26:444][448]LogConcert: Display: Synced activity '139' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW locked /Game/UI/UI_Pause_2.
+[2022.06.25-15.48.26:446][448]LogConcert: Display: Synced activity '140' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW added package /Game/UI/UI_Pause_2.
+[2022.06.25-15.48.26:446][448]LogConcert: Display: Synced activity '141' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW unlocked /Game/UI/UI_Pause_2.
+[2022.06.25-15.48.26:446][448]LogConcert: Display: Synced activity '142' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW locked /Game/UI/UI_Pause_2.
+[2022.06.25-15.48.26:447][448]LogConcert: Display: Synced activity '143' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW locked /Game/UI/UI_Pause_Setting.
+[2022.06.25-15.48.26:449][448]LogConcert: Display: Synced activity '144' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW saved package /Game/UI/UI_Pause_Setting.
+[2022.06.25-15.48.26:449][448]LogConcert: Display: Synced activity '145' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW unlocked /Game/UI/UI_Pause_Setting.
+[2022.06.25-15.48.26:450][448]LogConcert: Display: Synced activity '146' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW renamed package /Game/UI/UI_Pause_2 to /Game/UI/UI_Pause_Setting.
+[2022.06.25-15.48.26:450][448]LogConcert: Display: Synced activity '147' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW unlocked /Game/UI/UI_Pause_2.
+[2022.06.25-15.48.26:452][448]LogConcert: Display: Synced activity '148' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith saved package /Game/items/s_items.
+[2022.06.25-15.48.26:453][448]LogConcert: Display: Synced activity '149' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith unlocked /Game/items/s_items.
+[2022.06.25-15.48.26:453][448]LogConcert: Display: Synced activity '150' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith locked /Game/items/s_items.
+[2022.06.25-15.48.26:455][448]LogConcert: Display: Synced activity '151' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith deleted package /Game/items/s_items.
+[2022.06.25-15.48.26:455][448]LogConcert: Display: Synced activity '152' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith unlocked /Game/items/s_items.
+[2022.06.25-15.48.26:456][448]LogConcert: Display: Synced activity '153' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith locked /Game/items/s_items.
+[2022.06.25-15.48.26:457][448]LogConcert: Display: Synced activity '154' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith added package /Game/items/s_items.
+[2022.06.25-15.48.26:458][448]LogConcert: Display: Synced activity '155' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith unlocked /Game/items/s_items.
+[2022.06.25-15.48.26:458][448]LogConcert: Display: Synced activity '156' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith locked /Game/items/s_items.
+[2022.06.25-15.48.26:460][448]LogConcert: Display: Synced activity '157' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith saved package /Game/items/s_items.
+[2022.06.25-15.48.26:460][448]LogConcert: Display: Synced activity '158' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith unlocked /Game/items/s_items.
+[2022.06.25-15.48.26:462][448]LogConcert: Display: Synced activity '159' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith saved package /Game/items/s_items.
+[2022.06.25-15.48.26:464][448]LogConcert: Display: Synced activity '160' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith added package /Game/items/e_itemtypes.
+[2022.06.25-15.48.26:464][448]LogConcert: Display: Synced activity '161' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith locked /Game/items/e_itemtypes.
+[2022.06.25-15.48.26:466][448]LogConcert: Display: Synced activity '162' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith saved package /Game/items/e_itemtypes.
+[2022.06.25-15.48.26:466][448]LogConcert: Display: Synced activity '163' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith unlocked /Game/items/e_itemtypes.
+[2022.06.25-15.48.26:466][448]LogConcert: Display: Synced activity '164' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith locked /Game/items/s_items.
+[2022.06.25-15.48.26:468][448]LogConcert: Display: Synced activity '165' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith saved package /Game/items/s_items.
+[2022.06.25-15.48.26:469][448]LogConcert: Display: Synced activity '166' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith unlocked /Game/items/s_items.
+[2022.06.25-15.48.26:469][448]LogConcert: Display: Synced activity '167' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith locked /Game/Maps/Menu_BuiltData.
+[2022.06.25-15.48.26:471][448]LogConcert: Display: Synced activity '168' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith added package /Game/items/NewBlueprint.
+[2022.06.25-15.48.26:479][448]LogConcert: Display: Synced activity '169' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith locked /Game/items/NewBlueprint.
+[2022.06.25-15.48.26:480][448]LogConcert: Display: Synced activity '170' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith locked /Game/items/bp_mainitem.
+[2022.06.25-15.48.26:483][448]LogConcert: Display: Synced activity '171' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith saved package /Game/items/bp_mainitem.
+[2022.06.25-15.48.26:483][448]LogConcert: Display: Synced activity '172' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith unlocked /Game/items/bp_mainitem.
+[2022.06.25-15.48.26:483][448]LogConcert: Display: Synced activity '173' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith renamed package /Game/items/NewBlueprint to /Game/items/bp_mainitem.
+[2022.06.25-15.48.26:483][448]LogConcert: Display: Synced activity '174' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith unlocked /Game/items/NewBlueprint.
+[2022.06.25-15.48.26:484][448]LogConcert: Display: Synced activity '175' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith locked /Game/items/bp_mainitem.
+[2022.06.25-15.48.26:485][448]LogConcert: Display: Synced activity '176' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith renamed package /Game/items/bp_mainitem to /Game/items/bp_mainitem.
+[2022.06.25-15.48.26:485][448]LogConcert: Display: Synced activity '177' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith unlocked /Game/items/bp_mainitem.
+[2022.06.25-15.48.26:486][448]LogConcert: Display: Synced activity '178' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith locked /Game/items/NewBlueprint.
+[2022.06.25-15.48.26:486][448]LogConcert: Display: Synced activity '179' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith locked /Game/items/bp_mainitem.
+[2022.06.25-15.48.26:488][448]LogConcert: Display: Synced activity '180' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith deleted package /Game/items/bp_mainitem.
+[2022.06.25-15.48.26:488][448]LogConcert: Display: Synced activity '181' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith unlocked /Game/items/bp_mainitem.
+[2022.06.25-15.48.26:490][448]LogConcert: Display: Synced activity '182' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith added package /Game/items/NewBlueprint1.
+[2022.06.25-15.48.26:490][448]LogConcert: Display: Synced activity '183' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith locked /Game/items/NewBlueprint1.
+[2022.06.25-15.48.26:492][448]LogConcert: Display: Synced activity '184' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith deleted package /Game/items/NewBlueprint1.
+[2022.06.25-15.48.26:492][448]LogConcert: Display: Synced activity '185' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith unlocked /Game/items/NewBlueprint1.
+[2022.06.25-15.48.26:494][448]LogConcert: Display: Synced activity '186' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith added package /Game/items/bp_baseItem.
+[2022.06.25-15.48.26:494][448]LogConcert: Display: Synced activity '187' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith locked /Game/items/bp_baseItem.
+[2022.06.25-15.48.26:494][448]LogConcert: Display: Synced activity '188' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW saved package /Game/UI/UI_Pause.
+[2022.06.25-15.48.26:494][448]LogConcert: Display: Synced activity '189' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW unlocked /Game/UI/UI_Pause.
+[2022.06.25-15.48.26:497][448]LogConcert: Display: Synced activity '190' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith saved package /Game/items/bp_baseItem.
+[2022.06.25-15.48.26:497][448]LogConcert: Display: Synced activity '191' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith unlocked /Game/items/bp_baseItem.
+[2022.06.25-15.48.26:497][448]LogConcert: Display: Synced activity '192' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW locked /Game/UI/UI_Pause_2.
+[2022.06.25-15.48.26:498][448]LogConcert: Display: Synced activity '193' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW locked /Game/UI/UI_Pause_Setting.
+[2022.06.25-15.48.26:500][448]LogConcert: Display: Synced activity '194' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW deleted package /Game/UI/UI_Pause_Setting.
+[2022.06.25-15.48.26:500][448]LogConcert: Display: Synced activity '195' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW unlocked /Game/UI/UI_Pause_Setting.
+[2022.06.25-15.48.26:501][448]LogConcert: Display: Synced activity '196' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW locked /Game/UI/UI_Pause_3.
+[2022.06.25-15.48.26:503][448]LogConcert: Display: Synced activity '197' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW added package /Game/UI/UI_Pause_3.
+[2022.06.25-15.48.26:503][448]LogConcert: Display: Synced activity '198' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW unlocked /Game/UI/UI_Pause_3.
+[2022.06.25-15.48.26:503][448]LogConcert: Display: Synced activity '199' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW locked /Game/UI/UI_Pause_3.
+[2022.06.25-15.48.26:503][448]LogConcert: Display: Synced activity '200' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW locked /Game/UI/UI_Pause_Setting.
+[2022.06.25-15.48.26:506][448]LogConcert: Display: Synced activity '201' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW saved package /Game/UI/UI_Pause_Setting.
+[2022.06.25-15.48.26:506][448]LogConcert: Display: Synced activity '202' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW unlocked /Game/UI/UI_Pause_Setting.
+[2022.06.25-15.48.26:506][448]LogConcert: Display: Synced activity '203' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW renamed package /Game/UI/UI_Pause_3 to /Game/UI/UI_Pause_Setting.
+[2022.06.25-15.48.26:506][448]LogConcert: Display: Synced activity '204' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW unlocked /Game/UI/UI_Pause_3.
+[2022.06.25-15.48.26:507][448]LogConcert: Display: Synced activity '205' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW locked /Game/UI/UI_Pause_Setting.
+[2022.06.25-15.48.26:509][448]LogConcert: Display: Synced activity '206' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith discarded changes to package /Game/Maps/UEDPIE_0_Campus_rdc.
+[2022.06.25-15.48.26:511][448]LogConcert: Display: Synced activity '207' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith deleted package /Game/FirstPersonBP/Maps/FirstPersonExampleMap_2.
+[2022.06.25-15.48.26:514][448]LogConcert: Display: Synced activity '208' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith deleted package /Game/FirstPersonBP/Maps/Campus_test.
+[2022.06.25-15.48.26:515][448]LogConcert: Display: Synced activity '209' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith deleted package /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2022.06.25-15.48.26:517][448]LogConcert: Display: Synced activity '210' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith deleted FirstPersonCharacter_2 in /Game/Maps/Campus_rdc.
+[2022.06.25-15.48.26:519][448]LogConcert: Display: Synced activity '211' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW saved package /Game/UI/UI_Pause_Setting.
+[2022.06.25-15.48.26:520][448]LogConcert: Display: Synced activity '212' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW unlocked /Game/UI/UI_Pause_Setting.
+[2022.06.25-15.48.26:521][448]LogConcert: Display: Synced activity '213' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW discarded changes to package /Game/Maps/UEDPIE_0_Campus_rdc.
+[2022.06.25-15.48.26:523][448]LogConcert: Display: Synced activity '214' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW saved package /Game/Maps/Campus_rdc.
+[2022.06.25-15.48.26:526][448]LogConcert: Display: Synced activity '215' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW discarded changes to package /Game/Maps/UEDPIE_0_Campus_rdc.
+[2022.06.25-15.48.26:528][448]LogConcert: Display: Synced activity '216' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW discarded changes to package /Game/Maps/UEDPIE_0_Campus_rdc.
+[2022.06.25-15.48.26:528][448]LogConcert: Display: Synced activity '217' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith unlocked /Game/Maps/Menu_BuiltData, plus 1 other resource.
+[2022.06.25-15.48.26:528][448]LogConcert: Display: Synced activity '218' produced by endpoint '2032BAF6487200103A5688B4CA7F3BCE': KnightFaith left the session.
+[2022.06.25-15.48.26:531][448]LogConcert: Display: Synced activity '219' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW saved package /Game/Maps/Campus_rdc.
+[2022.06.25-15.48.26:534][448]LogConcert: Display: Synced activity '220' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW discarded changes to package /Game/Maps/UEDPIE_0_Campus_rdc.
+[2022.06.25-15.48.26:536][448]LogConcert: Display: Synced activity '221' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW discarded changes to package /Game/Maps/UEDPIE_0_Campus_rdc.
+[2022.06.25-15.48.26:537][448]LogConcert: Display: Synced activity '222' produced by endpoint '40F0F4A940A41DFC9C470B880365823D': KnightFaith joined the session.
+[2022.06.25-15.48.26:537][448]LogConcert: Display: Synced activity '223' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW locked /Game/UI/UI_Pause_Setting.
+[2022.06.25-15.48.26:537][448]LogConcert: Display: Synced activity '224' produced by endpoint '40F0F4A940A41DFC9C470B880365823D': KnightFaith left the session.
+[2022.06.25-15.48.26:537][448]LogConcert: Display: Synced activity '225' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW locked /Game/UI/UI_Menu.
+[2022.06.25-15.48.26:540][448]LogConcert: Display: Synced activity '226' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW saved package /Game/Maps/Campus_rdc.
+[2022.06.25-15.48.26:540][448]LogConcert: Display: Synced activity '227' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW saved package /Game/UI/UI_Menu.
+[2022.06.25-15.48.26:541][448]LogConcert: Display: Synced activity '228' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW unlocked /Game/UI/UI_Menu.
+[2022.06.25-15.48.26:541][448]LogConcert: Display: Synced activity '229' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW saved package /Game/UI/UI_Pause_Setting.
+[2022.06.25-15.48.26:541][448]LogConcert: Display: Synced activity '230' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW unlocked /Game/UI/UI_Pause_Setting.
+[2022.06.25-15.48.26:541][448]LogConcert: Display: Synced activity '231' produced by endpoint '0D3698CB49DC85DCF746E68EB674F657': KnightFaith joined the session.
+[2022.06.25-15.48.26:544][448]LogConcert: Display: Synced activity '232' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW discarded changes to package /Game/Maps/UEDPIE_0_Campus_rdc.
+[2022.06.25-15.48.26:546][448]LogConcert: Display: Synced activity '233' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW saved package /Game/Maps/Campus_rdc.
+[2022.06.25-15.48.26:548][448]LogConcert: Display: Synced activity '234' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW saved package /Game/Maps/Campus_rdc_BuiltData.
+[2022.06.25-15.48.26:548][448]LogConcert: Display: Synced activity '235' produced by endpoint '0D3698CB49DC85DCF746E68EB674F657': KnightFaith left the session.
+[2022.06.25-15.48.26:550][448]LogConcert: Display: Synced activity '236' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW discarded changes to package /Game/Maps/UEDPIE_0_Campus_rdc.
+[2022.06.25-15.48.26:550][448]LogConcert: Display: Synced activity '237' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW unlocked /Game/UI/UI_Pause_2.
+[2022.06.25-15.48.26:552][448]LogConcert: Display: Synced activity '238' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW discarded changes to package /Game/Maps/UEDPIE_0_Campus_rdc.
+[2022.06.25-15.48.26:553][448]LogConcert: Display: Synced activity '239' produced by endpoint 'FCCBB62F42059A642C6F7893FE8A8C64': FW left the session.
+[2022.06.25-15.48.26:553][448]LogConcert: Display: Synced activity '240' produced by endpoint '0175D30C4CFB0A97F57A9C9005036D3B': KnightFaith joined the session.
+[2022.06.25-15.48.26:553][448]LogConcert: Display: Synced activity '241' produced by endpoint '0175D30C4CFB0A97F57A9C9005036D3B': KnightFaith left the session.
+[2022.06.25-15.48.26:553][448]LogConcert: Display: Synced activity '242' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith joined the session.
+[2022.06.25-15.48.26:553][448]LogConcert: Display: Synced activity '243' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith locked /Game/Maps/Menu_BuiltData.
+[2022.06.25-15.48.26:553][448]LogConcert: Display: Synced activity '244' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith saved package /Game/items/bp_baseItem.
+[2022.06.25-15.48.26:553][448]LogConcert: Display: Synced activity '245' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith saved package /Game/items/e_itemtypes.
+[2022.06.25-15.48.26:554][448]LogConcert: Display: Synced activity '246' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith saved package /Game/items/s_items.
+[2022.06.25-15.48.26:556][448]LogConcert: Display: Synced activity '247' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith saved package /Game/Maps/Menu.
+[2022.06.25-15.48.26:558][448]LogConcert: Display: Synced activity '248' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith saved package /Game/Maps/Menu_BuiltData.
+[2022.06.25-15.48.26:558][448]LogConcert: Display: Synced activity '249' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith unlocked /Game/Maps/Menu_BuiltData.
+[2022.06.25-15.48.26:560][448]LogConcert: Display: Synced activity '250' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith saved package /Game/Maps/Menu.
+[2022.06.25-15.48.26:563][448]LogConcert: Display: Synced activity '251' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith saved package /Game/Maps/Menu_BuiltData.
+[2022.06.25-15.48.26:563][448]LogConcert: Display: Synced activity '252' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith locked /Game/ThirdPersonBP/ThirdPersonOverview.
+[2022.06.25-15.48.26:567][448]LogConcert: Display: Synced activity '253' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith added package /Game/ThirdPersonBP/ThirdPersonOverview.
+[2022.06.25-15.48.26:567][448]LogConcert: Display: Synced activity '254' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith unlocked /Game/ThirdPersonBP/ThirdPersonOverview.
+[2022.06.25-15.48.26:568][448]LogConcert: Display: Synced activity '255' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith saved package /Game/ThirdPersonBP/ThirdPersonOverview.
+[2022.06.25-15.48.26:570][448]LogConcert: Display: Synced activity '256' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith deleted package /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.
+[2022.06.25-15.48.26:571][448]LogConcert: Display: Synced activity '257' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith locked /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.
+[2022.06.25-15.48.26:573][448]LogConcert: Display: Synced activity '258' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith deleted package /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.
+[2022.06.25-15.48.26:574][448]LogConcert: Display: Synced activity '259' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith unlocked /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.
+[2022.06.25-15.48.26:577][448]LogConcert: Display: Synced activity '260' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith saved package /Game/Maps/Menu.
+[2022.06.25-15.48.26:579][448]LogConcert: Display: Synced activity '261' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith saved package /Game/Maps/Menu_BuiltData.
+[2022.06.25-15.48.26:582][448]LogConcert: Display: Synced activity '262' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith created ThirdPersonCharacter_2 in /Game/Maps/Campus_rdc.
+[2022.06.25-15.48.26:582][448]LogConcert: Display: Synced activity '263' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith locked ThirdPersonCharacter_2.CollisionCylinder in /Game/Maps/Campus_rdc, plus 1 other resource.
+[2022.06.25-15.48.26:584][448]LogConcert: Display: Synced activity '264' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith modified ThirdPersonCharacter_2.CollisionCylinder in /Game/Maps/Campus_rdc.
+[2022.06.25-15.48.26:584][448]LogConcert: Display: Synced activity '265' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith unlocked ThirdPersonCharacter_2.CollisionCylinder in /Game/Maps/Campus_rdc, plus 1 other resource.
+[2022.06.25-15.48.26:584][448]LogConcert: Display: Synced activity '266' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith locked ThirdPersonCharacter_2.CollisionCylinder in /Game/Maps/Campus_rdc, plus 1 other resource.
+[2022.06.25-15.48.26:586][448]LogConcert: Display: Synced activity '267' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith modified ThirdPersonCharacter_2.CollisionCylinder in /Game/Maps/Campus_rdc.
+[2022.06.25-15.48.26:586][448]LogConcert: Display: Synced activity '268' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith unlocked ThirdPersonCharacter_2.CollisionCylinder in /Game/Maps/Campus_rdc, plus 1 other resource.
+[2022.06.25-15.48.26:589][448]LogConcert: Display: Synced activity '269' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith modified ThirdPersonCharacter_2 in /Game/Maps/Campus_rdc.
+[2022.06.25-15.48.26:591][448]LogConcert: Display: Synced activity '270' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith modified ThirdPersonCharacter_2 in /Game/Maps/Campus_rdc.
+[2022.06.25-15.48.26:593][448]LogConcert: Display: Synced activity '271' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith modified None in None, plus -1 other action.
+[2022.06.25-15.48.26:595][448]LogConcert: Display: Synced activity '272' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith modified None in None, plus -1 other action.
+[2022.06.25-15.48.26:598][448]LogConcert: Display: Synced activity '273' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith modified ThirdPersonCharacter_2 in /Game/Maps/Campus_rdc.
+[2022.06.25-15.48.26:600][448]LogConcert: Display: Synced activity '274' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith deleted ThirdPersonCharacter_2 in /Game/Maps/Campus_rdc.
+[2022.06.25-15.48.26:603][448]LogConcert: Display: Synced activity '275' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith created ThirdPersonCharacter_5 in /Game/Maps/Campus_rdc.
+[2022.06.25-15.48.26:603][448]LogConcert: Display: Synced activity '276' produced by endpoint '70B6A1E54A8A6F78D4463D91287338A5': FW joined the session.
+[2022.06.25-15.48.26:605][448]LogConcert: Display: Synced activity '277' produced by endpoint 'D4FF7CBF42532D0495F4BEA04FB17891': KnightFaith discarded changes to package /Game/Maps/UEDPIE_0_Campus_rdc.
+[2022.06.25-15.48.26:605][448]LogConcert: Display: Synced activity '278' produced by endpoint '5EC63A5A4F0AD4FEFB50F6B859D04478': FW joined the session.
+[2022.06.25-15.48.26:606][448]LogConcert: Display: Synced activity '279' produced by endpoint '70B6A1E54A8A6F78D4463D91287338A5': FW left the session.
+[2022.06.25-15.48.26:606][448]LogConcert: Display: Synced activity '280' produced by endpoint 'DD60B8F643A4ED28A6FAE2B48506C0AF': FW joined the session.
+[2022.06.25-15.48.26:608][448]LogConcert: Display: Synced activity '281' produced by endpoint 'DD60B8F643A4ED28A6FAE2B48506C0AF': FW saved package /Game/Maps/Menu.
+[2022.06.25-15.48.26:611][448]LogConcert: Display: Synced activity '282' produced by endpoint 'DD60B8F643A4ED28A6FAE2B48506C0AF': FW saved package /Game/Maps/Menu_BuiltData.
+[2022.06.25-15.48.26:611][448]LogConcert: Display: Synced activity '283' produced by endpoint '4E8470634768B13C3D2E5792BB9E4147': KnightFaith joined the session.
+[2022.06.25-15.48.26:611][448]LogConcert: Display: Synced activity '284' produced by endpoint '4E8470634768B13C3D2E5792BB9E4147': KnightFaith left the session.
+[2022.06.25-15.48.26:611][448]LogConcert: Display: Synced activity '285' produced by endpoint 'F05DDFD84C3831A8C6D114B59C1A25F9': KnightFaith joined the session.
+[2022.06.25-15.48.26:611][448]LogConcert: Display: Synced activity '286' produced by endpoint 'F05DDFD84C3831A8C6D114B59C1A25F9': KnightFaith left the session.
+[2022.06.25-15.48.26:614][448]LogConcert: Display: Synced activity '287' produced by endpoint 'DD60B8F643A4ED28A6FAE2B48506C0AF': FW saved package /Game/Maps/Campus_rdc.
+[2022.06.25-15.48.26:616][448]LogConcert: Display: Synced activity '288' produced by endpoint 'DD60B8F643A4ED28A6FAE2B48506C0AF': FW discarded changes to package /Game/Maps/UEDPIE_0_Campus_rdc.
+[2022.06.25-15.48.26:618][448]LogConcert: Display: Synced activity '289' produced by endpoint 'DD60B8F643A4ED28A6FAE2B48506C0AF': FW discarded changes to package /Game/Maps/UEDPIE_0_Campus_rdc.
+[2022.06.25-15.48.26:620][448]LogConcert: Display: Synced activity '290' produced by endpoint 'DD60B8F643A4ED28A6FAE2B48506C0AF': FW discarded changes to package /Game/Maps/UEDPIE_0_Campus_rdc.
+[2022.06.25-15.48.26:620][448]LogConcert: Display: Synced activity '291' produced by endpoint 'DD60B8F643A4ED28A6FAE2B48506C0AF': FW locked /Game/Maps/Campus_rdc_BuiltData.
+[2022.06.25-15.48.26:622][448]LogConcert: Display: Synced activity '292' produced by endpoint 'DD60B8F643A4ED28A6FAE2B48506C0AF': FW discarded changes to package /Game/Maps/UEDPIE_0_Campus_rdc.
+[2022.06.25-15.48.26:623][448]LogConcert: Display: Synced activity '293' produced by endpoint 'DD60B8F643A4ED28A6FAE2B48506C0AF': FW saved package /Game/Maps/Campus_rdc.
+[2022.06.25-15.48.26:625][448]LogConcert: Display: Synced activity '294' produced by endpoint 'DD60B8F643A4ED28A6FAE2B48506C0AF': FW discarded changes to package /Game/Maps/UEDPIE_0_Campus_rdc.
+[2022.06.25-15.48.26:627][448]LogConcert: Display: Synced activity '295' produced by endpoint 'DD60B8F643A4ED28A6FAE2B48506C0AF': FW modified WorldSettings_1 in /Game/Maps/Campus_rdc.
+[2022.06.25-15.48.26:629][448]LogConcert: Display: Synced activity '296' produced by endpoint 'DD60B8F643A4ED28A6FAE2B48506C0AF': FW discarded changes to package /Game/Maps/UEDPIE_0_Campus_rdc.
+[2022.06.25-15.48.26:758][455]LogConcert: Display: Synced activity '297' produced by endpoint 'DD60B8F643A4ED28A6FAE2B48506C0AF': FW saved package /Game/Maps/Campus_rdc.
+[2022.06.25-15.48.26:761][455]LogConcert: Display: Synced activity '298' produced by endpoint 'DD60B8F643A4ED28A6FAE2B48506C0AF': FW saved package /Game/Maps/Campus_rdc_BuiltData.
+[2022.06.25-15.48.26:762][455]LogConcert: Display: Synced activity '299' produced by endpoint 'DD60B8F643A4ED28A6FAE2B48506C0AF': FW unlocked /Game/Maps/Campus_rdc_BuiltData.
+[2022.06.25-15.48.27:755][515]LogConcert: Display: Synced activity '300' produced by endpoint 'DD60B8F643A4ED28A6FAE2B48506C0AF': FW saved package /Game/Maps/Campus_rdc_BuiltData.
+[2022.06.25-15.48.27:759][515]LogConcert: Display: Synced activity '301' produced by endpoint 'DD60B8F643A4ED28A6FAE2B48506C0AF': FW saved package /Game/Maps/Menu.
+[2022.06.25-15.48.27:762][515]LogConcert: Display: Synced activity '302' produced by endpoint 'DD60B8F643A4ED28A6FAE2B48506C0AF': FW saved package /Game/Maps/Menu_BuiltData.
+[2022.06.25-15.48.27:764][515]LogConcert: Display: Synced activity '303' produced by endpoint 'DD60B8F643A4ED28A6FAE2B48506C0AF': FW saved package /Game/Maps/Menu.
+[2022.06.25-15.48.27:767][515]LogConcert: Display: Synced activity '304' produced by endpoint 'DD60B8F643A4ED28A6FAE2B48506C0AF': FW saved package /Game/Maps/Menu_BuiltData.
+[2022.06.25-15.48.27:770][515]LogConcert: Display: Synced activity '305' produced by endpoint 'DD60B8F643A4ED28A6FAE2B48506C0AF': FW modified WorldSettings in /Game/Maps/Menu.
+[2022.06.25-15.48.27:770][515]LogConcert: Display: Synced activity '306' produced by endpoint 'DD60B8F643A4ED28A6FAE2B48506C0AF': FW saved package /Game/Maps/Menu.
+[2022.06.25-15.48.27:770][515]LogConcert: Display: Synced activity '307' produced by endpoint 'DD60B8F643A4ED28A6FAE2B48506C0AF': FW saved package /Game/Maps/Menu_BuiltData.
+[2022.06.25-15.48.27:770][515]LogConcert: Display: Synced activity '308' produced by endpoint 'D3C9152E4978CC4DC918298DEA4FED67': FW joined the session.
+[2022.06.25-15.48.27:773][515]LogConcert: Display: Synced activity '309' produced by endpoint 'DD60B8F643A4ED28A6FAE2B48506C0AF': FW discarded changes to package /Game/Maps/UEDPIE_0_Menu.
+[2022.06.25-15.48.27:773][515]LogConcert: Display: Synced activity '310' produced by endpoint 'DD60B8F643A4ED28A6FAE2B48506C0AF': FW left the session.
+[2022.06.25-15.48.27:774][515]LogConcert: Display: Synced activity '311' produced by endpoint '748F70BC436D6F7CB5402CBD0DCDC1D3': KnightFaith joined the session.
+[2022.06.25-15.48.27:774][515]LogConcert: Display: Synced activity '312' produced by endpoint 'DC4AB26C42666C36CF58CAB1EB42E249': FW joined the session.
+[2022.06.25-15.48.27:774][515]LogConcert: Display: Synced activity '313' produced by endpoint '78254A3C41D6DC87F254B99631B76AAA': KnightFaith joined the session.
+[2022.06.25-15.48.27:774][515]LogConcert: Display: Synced activity '314' produced by endpoint '9F9766EC4AABA6331236BC8652B49552': FW joined the session.
+[2022.06.25-15.48.27:854][515]LightingResults: New page: Lighting Build
+[2022.06.25-15.48.27:857][515]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2022.06.25-15.48.27:857][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-15.48.27:857][515]MapCheck: New page: Map Check
+[2022.06.25-15.48.27:857][515]LightingResults: New page: Lighting Build
+[2022.06.25-15.48.27:862][515]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.25-15.48.27:863][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.06.25-15.48.27:867][515]LogAIModule: Creating AISystem for world Untitled
+[2022.06.25-15.48.27:867][515]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.06.25-15.48.27:868][515]LoadErrors: New page: New Map
+[2022.06.25-15.48.27:870][515]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/UI/UI_Menu
+[2022.06.25-15.48.27:875][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-15.48.27:987][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.06.25-15.48.27:993][515]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Menu.Menu
+[2022.06.25-15.48.27:994][515]Cmd: MAP LOAD FILE="../../../../../../Users/fazanwolf/Games/marvin-attack/MarvinAttack/Content/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.25-15.48.27:994][515]LightingResults: New page: Lighting Build
+[2022.06.25-15.48.27:994][515]LoadErrors: New page: Loading map: Menu.umap
+[2022.06.25-15.48.27:994][515]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.06.25-15.48.27:994][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-15.48.27:995][515]MapCheck: New page: Map Check
+[2022.06.25-15.48.27:995][515]LightingResults: New page: Lighting Build
+[2022.06.25-15.48.28:000][515]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.25-15.48.28:001][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.06.25-15.48.28:001][515]LogAudio: Display: Audio Device (ID: 1) registered with world 'Menu'.
+[2022.06.25-15.48.28:002][515]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.25-15.48.28:002][515]LogAIModule: Creating AISystem for world Menu
+[2022.06.25-15.48.28:009][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.06.25-15.48.28:014][515]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.25-15.48.28:014][515]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.152ms to complete.
+[2022.06.25-15.48.28:014][515]LogFileHelpers: Loading map 'Menu' took 0.020
+[2022.06.25-15.48.30:897][685]LogSlate: Window 'Multi-User Browser' being destroyed
+[2022.06.25-15.48.30:901][685]LogSlate: Window 'Multi-User Browser' being destroyed
+[2022.06.25-15.48.43:035][409]SourceControl: Source control is disabled
+[2022.06.25-15.48.43:035][409]SourceControl: Source control is disabled
+[2022.06.25-15.48.43:035][409]SourceControl: Source control is disabled
+[2022.06.25-15.48.46:712][627]LogConcertTakeRecorder: Display: Session Client Change: FW Disconnected.
+[2022.06.25-15.48.46:715][627]LogConcert: Display: User 'fazanwolf' (Endpoint: DC4AB26C42666C36CF58CAB1EB42E249) left Concert session 'MRVN' (Id: 54ADE3634EC96AE632E51F8CC2A9AF3E, Owner: knightfaith).
+[2022.06.25-15.48.46:716][627]LogConcert: Display: Synced activity '315' produced by endpoint 'DC4AB26C42666C36CF58CAB1EB42E249': FW left the session.
+[2022.06.25-15.48.51:994][938]SourceControl: Error: Failed to connect to source control. Check your settings and connection then try again.
+[2022.06.25-15.48.53:541][ 24]SourceControl: Source control is disabled
+[2022.06.25-15.48.53:541][ 24]SourceControl: Source control is disabled
+[2022.06.25-15.48.53:541][ 24]SourceControl: Source control is disabled
+[2022.06.25-15.48.53:541][ 24]LogSlate: Window 'Source Control Login' being destroyed
+[2022.06.25-15.49.17:263][171]LogSlate: Window 'Save Level As' being destroyed
+[2022.06.25-15.49.19:202][287]LogConcertTakeRecorder: Display: Session Client Change: KnightFaith Disconnected.
+[2022.06.25-15.49.19:207][287]LogConcert: Display: User 'knightfaith' (Endpoint: 78254A3C41D6DC87F254B99631B76AAA) left Concert session 'MRVN' (Id: 54ADE3634EC96AE632E51F8CC2A9AF3E, Owner: knightfaith).
+[2022.06.25-15.49.19:207][287]LogConcert: Display: Synced activity '316' produced by endpoint '78254A3C41D6DC87F254B99631B76AAA': KnightFaith left the session.
+[2022.06.25-15.49.29:499][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.06.25-15.49.33:037][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.06.25-15.49.40:851][572]SourceControl: Source control is disabled
+[2022.06.25-15.49.43:109][661]LogSlate: Window 'Source Control Login' being destroyed
+[2022.06.25-15.49.51:357][147]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UI_Pause.UI_Pause
+[2022.06.25-15.49.51:491][147]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.06.25-15.49.52:528][147]LogSlate: Took 0.000348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.06.25-15.50.21:551][867]LogSlate: Took 0.002111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.06.25-15.50.25:668][111]LogSlate: Window 'UI_Pause' being destroyed
+[2022.06.25-15.50.25:673][111]LogSlate: Window 'UI_Pause' being destroyed
+[2022.06.25-15.50.25:677][111]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.06.25-15.50.25:677][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-15.50.25:693][111]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.06.25-15.50.25:693][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-15.50.28:950][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.06.25-15.50.29:089][300]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Campus_rdc.Campus_rdc
+[2022.06.25-15.50.29:089][300]Cmd: MAP LOAD FILE="../../../../../../Users/fazanwolf/Games/marvin-attack/MarvinAttack/Content/Maps/Campus_rdc.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.25-15.50.29:089][300]LightingResults: New page: Lighting Build
+[2022.06.25-15.50.29:089][300]LoadErrors: New page: Loading map: Campus_rdc.umap
+[2022.06.25-15.50.29:091][300]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2022.06.25-15.50.29:091][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-15.50.29:091][300]MapCheck: New page: Map Check
+[2022.06.25-15.50.29:091][300]LightingResults: New page: Lighting Build
+[2022.06.25-15.50.29:108][300]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.25-15.50.29:131][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.06.25-15.50.29:132][300]LogAudio: Display: Audio Device (ID: 1) registered with world 'Campus_rdc'.
+[2022.06.25-15.50.29:137][300]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.25-15.50.29:138][300]LogAIModule: Creating AISystem for world Campus_rdc
+[2022.06.25-15.50.29:158][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.06.25-15.50.29:165][300]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.25-15.50.29:165][300]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.232ms to complete.
+[2022.06.25-15.50.29:165][300]LogFileHelpers: Loading map 'Campus_rdc' took 0.076
+[2022.06.25-15.50.30:887][391]LogConcert: Display: Synced activity '317' produced by endpoint '9F9766EC4AABA6331236BC8652B49552': FW modified None in None, plus -1 other action.
+[2022.06.25-15.50.32:260][464]LogConcert: Display: Synced activity '318' produced by endpoint '9F9766EC4AABA6331236BC8652B49552': FW modified None in None, plus -1 other action.
+[2022.06.25-15.50.32:531][480]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.06.25-15.50.33:056][501]LogConcert: Display: Synced activity '319' produced by endpoint '9F9766EC4AABA6331236BC8652B49552': FW modified None in None, plus -1 other action.
+[2022.06.25-15.50.35:676][658]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.06.25-15.50.36:735][721]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.25-15.50.36:743][721]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.25-15.50.36:743][721]PIE: New page: PIE session: Campus_rdc (25 Jun 2022, 23:50:36)
+[2022.06.25-15.50.36:744][721]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.06.25-15.50.36:745][721]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.06.25-15.50.36:745][721]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Campus_rdc
+[2022.06.25-15.50.36:770][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024351s)
+[2022.06.25-15.50.36:771][721]LogAIModule: Creating AISystem for world Campus_rdc
+[2022.06.25-15.50.36:771][721]LogPlayLevel: PIE: World Init took: (0.001080s)
+[2022.06.25-15.50.36:771][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Campus_rdc.Campus_rdc to /Game/Maps/UEDPIE_0_Campus_rdc.Campus_rdc (0.025606s)
+[2022.06.25-15.50.36:786][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.06.25-15.50.36:788][721]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.06.25-15.50.36:788][721]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.25-15.50.36:788][721]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.25-15.50.36:788][721]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.25-15.50.36:788][721]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.25-15.50.36:788][721]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.25-15.50.36:788][721]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.25-15.50.36:788][721]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.25-15.50.36:788][721]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.25-15.50.36:789][721]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.25-15.50.36:789][721]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.25-15.50.36:789][721]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.25-15.50.36:789][721]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.25-15.50.36:791][721]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.25-15.50.36:791][721]LogAudioMixer: Display: 1: FrontRight
+[2022.06.25-15.50.36:911][721]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.06.25-15.50.36:911][721]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.25-15.50.36:911][721]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.25-15.50.36:911][721]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.25-15.50.36:912][721]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.25-15.50.36:912][721]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.25-15.50.36:912][721]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.25-15.50.36:913][721]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.25-15.50.36:913][721]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.25-15.50.36:913][721]LogInit: FAudioDevice initialized.
+[2022.06.25-15.50.36:913][721]LogAudio: Display: Audio Device (ID: 2) registered with world 'Campus_rdc'.
+[2022.06.25-15.50.36:923][721]LogLoad: Game class is 'GameMode'
+[2022.06.25-15.50.36:925][721]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Campus_rdc.Campus_rdc up for play (max tick rate 60) at 2022.06.25-19.50.36
+[2022.06.25-15.50.36:925][721]LogWorld: Bringing up level for play took: 0.001482
+[2022.06.25-15.50.36:925][721]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2022.06.25-15.50.36:928][721]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.06.25-15.50.36:928][721]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.25-15.50.36:929][721]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.06.25-15.50.36:929][721]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.06.25-15.50.36:929][721]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.06.25-15.50.36:929][721]PIE: Server logged in
+[2022.06.25-15.50.36:930][721]PIE: Play in editor total start time 0.189 seconds.
+[2022.06.25-15.50.40:523][923]PIE: Error: SetInputMode_GameAndUI expects a valid player controller as 'PlayerController' target
+[2022.06.25-15.50.41:489][981]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.06.25-15.50.42:230][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-15.50.42:230][ 23]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Campus_rdc
+[2022.06.25-15.50.42:230][ 23]LogWorld: UWorld::CleanupWorld for Campus_rdc, bSessionEnded=true, bCleanupResources=true
+[2022.06.25-15.50.42:231][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-15.50.42:243][ 23]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.25-15.50.42:252][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-15.50.42:265][ 23]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.25-15.50.42:266][ 23]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.25-15.50.42:267][ 23]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.25-15.50.42:274][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-15.50.42:311][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.06.25-15.50.42:386][ 23]LogSlate: Took 0.000357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.06.25-15.50.42:394][ 24]LogConcert: Display: Synced activity '320' produced by endpoint '9F9766EC4AABA6331236BC8652B49552': FW discarded changes to package /Game/Maps/UEDPIE_0_Campus_rdc.
+[2022.06.25-15.50.42:396][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.06.25-15.50.48:506][382]LogSlate: Window 'Message Log' being destroyed
+[2022.06.25-15.50.48:510][382]LogSlate: Window 'Message Log' being destroyed
+[2022.06.25-15.50.52:108][597]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file.
+[2022.06.25-15.50.52:108][597]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file.
+[2022.06.25-15.50.52:109][597]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C'
+[2022.06.25-15.50.53:871][698]SourceControl: Error: warning: could not open directory 'MarvinAttack/Content/items/': No such file or directory
+[2022.06.25-15.50.53:871][698]SourceControl: Error: warning: could not open directory 'MarvinAttack/Content/ThirdPersonBP/': No such file or directory
+[2022.06.25-15.50.54:645][743]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Campus_rdc.Campus_rdc:PersistentLevel.Campus_rdc
+[2022.06.25-15.50.55:150][744]LogSlate: Took 0.000770 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.06.25-15.51.08:581][309]LogRHI: Error: Present Fail Count 1
+[2022.06.25-15.51.08:581][309]LogRHI: Error: SyncInterval 0
+[2022.06.25-15.51.08:581][309]LogRHI: Error: SwapChainDesc.BufferDesc.Width 513
+[2022.06.25-15.51.08:581][309]LogRHI: Error: SwapChainDesc.BufferDesc.Height 513
+[2022.06.25-15.51.08:581][309]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.06.25-15.51.08:581][309]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.06.25-15.51.08:581][309]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.06.25-15.51.08:582][309]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.06.25-15.51.08:582][309]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.06.25-15.51.08:582][309]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.06.25-15.51.08:582][309]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.06.25-15.51.08:582][309]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.06.25-15.51.08:582][309]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.06.25-15.51.08:582][309]LogRHI: Error: SwapChainDesc.OutputWindow 00000000000F06FA
+[2022.06.25-15.51.08:582][309]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.06.25-15.51.08:582][309]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.06.25-15.51.08:582][309]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.06.25-15.51.08:582][309]LogRHI: Error: Present Fail Count 1
+[2022.06.25-15.51.08:582][309]LogRHI: Error: SyncInterval 0
+[2022.06.25-15.51.08:582][309]LogRHI: Error: SwapChainDesc.BufferDesc.Width 664
+[2022.06.25-15.51.08:582][309]LogRHI: Error: SwapChainDesc.BufferDesc.Height 80
+[2022.06.25-15.51.08:582][309]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.06.25-15.51.08:582][309]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.06.25-15.51.08:582][309]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.06.25-15.51.08:582][309]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.06.25-15.51.08:582][309]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.06.25-15.51.08:582][309]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.06.25-15.51.08:582][309]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.06.25-15.51.08:582][309]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.06.25-15.51.08:582][309]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.06.25-15.51.08:582][309]LogRHI: Error: SwapChainDesc.OutputWindow 00000000004F0850
+[2022.06.25-15.51.08:582][309]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.06.25-15.51.08:582][309]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.06.25-15.51.08:582][309]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.06.25-15.51.08:897][309]LogRHI: Error: Present Fail Count 1
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SyncInterval 0
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1098
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000820820
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.06.25-15.51.08:897][309]LogRHI: Error: Present Fail Count 1
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SyncInterval 0
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1098
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SwapChainDesc.OutputWindow 00000000002F0044
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.06.25-15.51.08:897][309]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.06.25-15.51.09:472][313]LogRHI: Error: Present Fail Count 1
+[2022.06.25-15.51.09:472][313]LogRHI: Error: SyncInterval 0
+[2022.06.25-15.51.09:472][313]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2022.06.25-15.51.09:472][313]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1098
+[2022.06.25-15.51.09:472][313]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.06.25-15.51.09:472][313]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.06.25-15.51.09:472][313]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.06.25-15.51.09:472][313]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.06.25-15.51.09:473][313]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.06.25-15.51.09:473][313]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.06.25-15.51.09:473][313]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.06.25-15.51.09:473][313]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.06.25-15.51.09:473][313]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.06.25-15.51.09:473][313]LogRHI: Error: SwapChainDesc.OutputWindow 00000000002F0044
+[2022.06.25-15.51.09:473][313]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.06.25-15.51.09:473][313]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.06.25-15.51.09:473][313]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.06.25-15.51.09:649][316]LogRHI: Error: Present Fail Count 2
+[2022.06.25-15.51.09:649][316]LogRHI: Error: SyncInterval 0
+[2022.06.25-15.51.09:649][316]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2022.06.25-15.51.09:649][316]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1098
+[2022.06.25-15.51.09:649][316]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.06.25-15.51.09:649][316]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.06.25-15.51.09:649][316]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.06.25-15.51.09:649][316]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.06.25-15.51.09:649][316]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.06.25-15.51.09:649][316]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.06.25-15.51.09:649][316]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.06.25-15.51.09:649][316]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.06.25-15.51.09:649][316]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.06.25-15.51.09:649][316]LogRHI: Error: SwapChainDesc.OutputWindow 00000000002F0044
+[2022.06.25-15.51.09:649][316]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.06.25-15.51.09:649][316]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.06.25-15.51.09:649][316]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.06.25-15.51.09:710][319]LogRHI: Error: Present Fail Count 3
+[2022.06.25-15.51.09:710][319]LogRHI: Error: SyncInterval 0
+[2022.06.25-15.51.09:710][319]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2022.06.25-15.51.09:710][319]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1098
+[2022.06.25-15.51.09:710][319]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.06.25-15.51.09:710][319]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.06.25-15.51.09:710][319]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.06.25-15.51.09:711][319]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.06.25-15.51.09:711][319]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.06.25-15.51.09:711][319]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.06.25-15.51.09:711][319]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.06.25-15.51.09:711][319]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.06.25-15.51.09:711][319]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.06.25-15.51.09:711][319]LogRHI: Error: SwapChainDesc.OutputWindow 00000000002F0044
+[2022.06.25-15.51.09:711][319]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.06.25-15.51.09:711][319]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.06.25-15.51.09:711][319]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.06.25-15.51.09:764][322]LogRHI: Error: Present Fail Count 4
+[2022.06.25-15.51.09:764][322]LogRHI: Error: SyncInterval 0
+[2022.06.25-15.51.09:764][322]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2022.06.25-15.51.09:764][322]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1098
+[2022.06.25-15.51.09:764][322]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.06.25-15.51.09:764][322]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.06.25-15.51.09:764][322]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.06.25-15.51.09:764][322]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.06.25-15.51.09:764][322]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.06.25-15.51.09:764][322]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.06.25-15.51.09:764][322]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.06.25-15.51.09:764][322]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.06.25-15.51.09:764][322]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.06.25-15.51.09:764][322]LogRHI: Error: SwapChainDesc.OutputWindow 00000000002F0044
+[2022.06.25-15.51.09:764][322]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.06.25-15.51.09:764][322]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.06.25-15.51.09:764][322]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.06.25-15.51.09:812][325]LogRHI: Error: Present Fail Count 5
+[2022.06.25-15.51.09:812][325]LogRHI: Error: SyncInterval 0
+[2022.06.25-15.51.09:812][325]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2022.06.25-15.51.09:812][325]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1098
+[2022.06.25-15.51.09:812][325]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.06.25-15.51.09:812][325]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.06.25-15.51.09:812][325]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.06.25-15.51.09:813][325]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.06.25-15.51.09:813][325]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.06.25-15.51.09:813][325]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.06.25-15.51.09:813][325]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.06.25-15.51.09:813][325]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.06.25-15.51.09:813][325]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.06.25-15.51.09:813][325]LogRHI: Error: SwapChainDesc.OutputWindow 00000000002F0044
+[2022.06.25-15.51.09:813][325]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.06.25-15.51.09:813][325]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.06.25-15.51.09:813][325]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.06.25-15.51.09:863][328]LogRHI: Error: Present Fail Count 6
+[2022.06.25-15.51.09:863][328]LogRHI: Error: SyncInterval 0
+[2022.06.25-15.51.09:863][328]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2022.06.25-15.51.09:863][328]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1098
+[2022.06.25-15.51.09:863][328]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.06.25-15.51.09:863][328]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.06.25-15.51.09:863][328]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.06.25-15.51.09:863][328]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.06.25-15.51.09:863][328]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.06.25-15.51.09:863][328]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.06.25-15.51.09:863][328]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.06.25-15.51.09:863][328]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.06.25-15.51.09:863][328]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.06.25-15.51.09:863][328]LogRHI: Error: SwapChainDesc.OutputWindow 00000000002F0044
+[2022.06.25-15.51.09:863][328]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.06.25-15.51.09:863][328]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.06.25-15.51.09:863][328]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.06.25-15.51.09:952][331]LogRHI: Error: Present Fail Count 7
+[2022.06.25-15.51.09:952][331]LogRHI: Error: SyncInterval 0
+[2022.06.25-15.51.09:952][331]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2022.06.25-15.51.09:952][331]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1098
+[2022.06.25-15.51.09:952][331]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.06.25-15.51.09:952][331]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.06.25-15.51.09:952][331]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.06.25-15.51.09:952][331]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.06.25-15.51.09:952][331]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.06.25-15.51.09:952][331]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.06.25-15.51.09:952][331]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.06.25-15.51.09:952][331]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.06.25-15.51.09:952][331]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.06.25-15.51.09:952][331]LogRHI: Error: SwapChainDesc.OutputWindow 00000000002F0044
+[2022.06.25-15.51.09:952][331]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.06.25-15.51.09:952][331]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.06.25-15.51.09:952][331]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.06.25-15.51.10:010][334]LogRHI: Error: Present Fail Count 8
+[2022.06.25-15.51.10:010][334]LogRHI: Error: SyncInterval 0
+[2022.06.25-15.51.10:010][334]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2022.06.25-15.51.10:010][334]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1098
+[2022.06.25-15.51.10:010][334]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.06.25-15.51.10:010][334]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.06.25-15.51.10:010][334]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.06.25-15.51.10:010][334]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.06.25-15.51.10:010][334]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.06.25-15.51.10:010][334]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.06.25-15.51.10:010][334]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.06.25-15.51.10:010][334]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.06.25-15.51.10:010][334]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.06.25-15.51.10:010][334]LogRHI: Error: SwapChainDesc.OutputWindow 00000000002F0044
+[2022.06.25-15.51.10:010][334]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.06.25-15.51.10:010][334]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.06.25-15.51.10:010][334]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.06.25-15.51.10:074][337]LogRHI: Error: Present Fail Count 9
+[2022.06.25-15.51.10:075][337]LogRHI: Error: SyncInterval 0
+[2022.06.25-15.51.10:075][337]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2022.06.25-15.51.10:075][337]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1098
+[2022.06.25-15.51.10:075][337]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.06.25-15.51.10:075][337]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.06.25-15.51.10:075][337]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.06.25-15.51.10:075][337]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.06.25-15.51.10:075][337]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.06.25-15.51.10:075][337]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.06.25-15.51.10:075][337]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.06.25-15.51.10:075][337]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.06.25-15.51.10:075][337]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.06.25-15.51.10:075][337]LogRHI: Error: SwapChainDesc.OutputWindow 00000000002F0044
+[2022.06.25-15.51.10:075][337]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.06.25-15.51.10:075][337]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.06.25-15.51.10:075][337]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.06.25-15.51.10:137][340]LogRHI: Error: Present Fail Count 10
+[2022.06.25-15.51.10:137][340]LogRHI: Error: SyncInterval 0
+[2022.06.25-15.51.10:137][340]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2022.06.25-15.51.10:137][340]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1098
+[2022.06.25-15.51.10:137][340]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.06.25-15.51.10:137][340]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.06.25-15.51.10:137][340]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.06.25-15.51.10:137][340]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.06.25-15.51.10:137][340]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.06.25-15.51.10:137][340]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.06.25-15.51.10:137][340]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.06.25-15.51.10:137][340]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.06.25-15.51.10:137][340]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.06.25-15.51.10:137][340]LogRHI: Error: SwapChainDesc.OutputWindow 00000000002F0044
+[2022.06.25-15.51.10:137][340]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.06.25-15.51.10:137][340]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.06.25-15.51.10:137][340]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.06.25-15.51.10:182][343]LogRHI: Error: Present Fail Count 11
+[2022.06.25-15.51.10:182][343]LogRHI: Error: SyncInterval 0
+[2022.06.25-15.51.10:182][343]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2022.06.25-15.51.10:182][343]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1098
+[2022.06.25-15.51.10:182][343]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.06.25-15.51.10:182][343]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.06.25-15.51.10:182][343]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.06.25-15.51.10:182][343]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.06.25-15.51.10:182][343]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.06.25-15.51.10:182][343]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.06.25-15.51.10:182][343]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.06.25-15.51.10:182][343]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.06.25-15.51.10:182][343]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.06.25-15.51.10:182][343]LogRHI: Error: SwapChainDesc.OutputWindow 00000000002F0044
+[2022.06.25-15.51.10:182][343]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.06.25-15.51.10:182][343]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.06.25-15.51.10:182][343]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.06.25-15.51.10:182][343]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:443 
+ with error DXGI_ERROR_DEVICE_REMOVED 00000000
+[2022.06.25-15.51.10:182][343]LogD3D11RHI: [Aftermath] GDynamicRHI=000002957245B640, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2022.06.25-15.51.10:182][343]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2022.06.25-15.51.11:275][344]LogWindows: FPlatformMisc::RequestExit(0)
+[2022.06.25-15.51.11:275][344]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2022.06.25-15.51.11:275][344]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.06.25-15.51.11:275][344]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.06.25-15.51.11:275][344]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2022.06.25-15.51.11:275][344]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2022.06.25-15.51.11:281][344]Log file closed, 06/25/22 19:51:11
